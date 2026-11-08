@@ -1,0 +1,1500 @@
+2026-01-01 00:00:01 INFO service-1 heartbeat ok
+2026-01-01 00:00:02 INFO recovered from error in module-2
+2026-01-01 00:00:03 WARNING service-3 heartbeat ok
+2026-01-01 00:00:04 INFO service-4 heartbeat ok
+2026-01-01 00:00:05 ERROR disk write failed on node-5
+2026-01-01 00:00:06 INFO service-6 heartbeat ok
+2026-01-01 00:00:07 INFO service-7 heartbeat ok
+2026-01-01 00:00:08 WARNING service-8 heartbeat ok
+2026-01-01 00:00:09 INFO service-9 heartbeat ok
+2026-01-01 00:00:10 ERROR disk write failed on node-10
+2026-01-01 00:00:11 INFO service-11 heartbeat ok
+2026-01-01 00:00:12 INFO service-12 heartbeat ok
+2026-01-01 00:00:13 WARNING service-13 heartbeat ok
+2026-01-01 00:00:14 INFO service-14 heartbeat ok
+2026-01-01 00:00:15 ERROR disk write failed on node-15
+2026-01-01 00:00:16 INFO service-16 heartbeat ok
+2026-01-01 00:00:17 INFO service-17 heartbeat ok
+2026-01-01 00:00:18 WARNING service-18 heartbeat ok
+2026-01-01 00:00:19 INFO service-19 heartbeat ok
+2026-01-01 00:00:20 ERROR disk write failed on node-20
+2026-01-01 00:00:21 INFO service-21 heartbeat ok
+2026-01-01 00:00:22 INFO service-22 heartbeat ok
+2026-01-01 00:00:23 WARNING service-23 heartbeat ok
+2026-01-01 00:00:24 INFO service-24 heartbeat ok
+2026-01-01 00:00:25 ERROR disk write failed on node-25
+2026-01-01 00:00:26 INFO service-26 heartbeat ok
+2026-01-01 00:00:27 INFO service-27 heartbeat ok
+2026-01-01 00:00:28 WARNING service-28 heartbeat ok
+2026-01-01 00:00:29 INFO service-29 heartbeat ok
+2026-01-01 00:00:30 ERROR disk write failed on node-30
+2026-01-01 00:00:31 INFO service-31 heartbeat ok
+2026-01-01 00:00:32 INFO service-32 heartbeat ok
+2026-01-01 00:00:33 WARNING service-33 heartbeat ok
+2026-01-01 00:00:34 INFO service-34 heartbeat ok
+2026-01-01 00:00:35 ERROR disk write failed on node-35
+2026-01-01 00:00:36 INFO service-36 heartbeat ok
+2026-01-01 00:00:37 INFO service-37 heartbeat ok
+2026-01-01 00:00:38 WARNING service-38 heartbeat ok
+2026-01-01 00:00:39 INFO service-39 heartbeat ok
+2026-01-01 00:00:40 ERROR disk write failed on node-40
+2026-01-01 00:00:41 INFO service-41 heartbeat ok
+2026-01-01 00:00:42 INFO service-42 heartbeat ok
+2026-01-01 00:00:43 WARNING service-43 heartbeat ok
+2026-01-01 00:00:44 INFO service-44 heartbeat ok
+2026-01-01 00:00:45 ERROR disk write failed on node-45
+2026-01-01 00:00:46 INFO service-46 heartbeat ok
+2026-01-01 00:00:47 INFO service-47 heartbeat ok
+2026-01-01 00:00:48 WARNING service-48 heartbeat ok
+2026-01-01 00:00:49 INFO service-49 heartbeat ok
+2026-01-01 00:00:50 ERROR disk write failed on node-50
+2026-01-01 00:00:51 INFO service-51 heartbeat ok
+2026-01-01 00:00:52 INFO recovered from error in module-52
+2026-01-01 00:00:53 WARNING service-53 heartbeat ok
+2026-01-01 00:00:54 INFO service-54 heartbeat ok
+2026-01-01 00:00:55 ERROR disk write failed on node-55
+2026-01-01 00:00:56 INFO service-56 heartbeat ok
+2026-01-01 00:00:57 INFO service-57 heartbeat ok
+2026-01-01 00:00:58 WARNING service-58 heartbeat ok
+2026-01-01 00:00:59 INFO service-59 heartbeat ok
+2026-01-01 00:01:00 ERROR disk write failed on node-60
+2026-01-01 00:01:01 INFO service-61 heartbeat ok
+2026-01-01 00:01:02 INFO service-62 heartbeat ok
+2026-01-01 00:01:03 WARNING service-63 heartbeat ok
+2026-01-01 00:01:04 INFO service-64 heartbeat ok
+2026-01-01 00:01:05 ERROR disk write failed on node-65
+2026-01-01 00:01:06 INFO service-66 heartbeat ok
+2026-01-01 00:01:07 INFO service-67 heartbeat ok
+2026-01-01 00:01:08 WARNING service-68 heartbeat ok
+2026-01-01 00:01:09 INFO service-69 heartbeat ok
+2026-01-01 00:01:10 ERROR disk write failed on node-70
+2026-01-01 00:01:11 INFO service-71 heartbeat ok
+2026-01-01 00:01:12 INFO service-72 heartbeat ok
+2026-01-01 00:01:13 WARNING service-73 heartbeat ok
+2026-01-01 00:01:14 INFO service-74 heartbeat ok
+2026-01-01 00:01:15 ERROR disk write failed on node-75
+2026-01-01 00:01:16 INFO service-76 heartbeat ok
+2026-01-01 00:01:17 INFO service-77 heartbeat ok
+2026-01-01 00:01:18 WARNING service-78 heartbeat ok
+2026-01-01 00:01:19 INFO service-79 heartbeat ok
+2026-01-01 00:01:20 ERROR disk write failed on node-80
+2026-01-01 00:01:21 INFO service-81 heartbeat ok
+2026-01-01 00:01:22 INFO service-82 heartbeat ok
+2026-01-01 00:01:23 WARNING service-83 heartbeat ok
+2026-01-01 00:01:24 INFO service-84 heartbeat ok
+2026-01-01 00:01:25 ERROR disk write failed on node-85
+2026-01-01 00:01:26 INFO service-86 heartbeat ok
+2026-01-01 00:01:27 INFO service-87 heartbeat ok
+2026-01-01 00:01:28 WARNING service-88 heartbeat ok
+2026-01-01 00:01:29 INFO service-89 heartbeat ok
+2026-01-01 00:01:30 ERROR disk write failed on node-90
+2026-01-01 00:01:31 INFO service-91 heartbeat ok
+2026-01-01 00:01:32 INFO service-92 heartbeat ok
+2026-01-01 00:01:33 WARNING service-93 heartbeat ok
+2026-01-01 00:01:34 INFO service-94 heartbeat ok
+2026-01-01 00:01:35 ERROR disk write failed on node-95
+2026-01-01 00:01:36 INFO service-96 heartbeat ok
+2026-01-01 00:01:37 INFO service-97 heartbeat ok
+2026-01-01 00:01:38 WARNING service-98 heartbeat ok
+2026-01-01 00:01:39 INFO service-99 heartbeat ok
+2026-01-01 00:01:40 ERROR disk write failed on node-100
+2026-01-01 00:01:41 INFO service-101 heartbeat ok
+2026-01-01 00:01:42 INFO recovered from error in module-102
+2026-01-01 00:01:43 WARNING service-103 heartbeat ok
+2026-01-01 00:01:44 INFO service-104 heartbeat ok
+2026-01-01 00:01:45 ERROR disk write failed on node-105
+2026-01-01 00:01:46 INFO service-106 heartbeat ok
+2026-01-01 00:01:47 INFO service-107 heartbeat ok
+2026-01-01 00:01:48 WARNING service-108 heartbeat ok
+2026-01-01 00:01:49 INFO service-109 heartbeat ok
+2026-01-01 00:01:50 ERROR disk write failed on node-110
+2026-01-01 00:01:51 INFO service-111 heartbeat ok
+2026-01-01 00:01:52 INFO service-112 heartbeat ok
+2026-01-01 00:01:53 WARNING service-113 heartbeat ok
+2026-01-01 00:01:54 INFO service-114 heartbeat ok
+2026-01-01 00:01:55 ERROR disk write failed on node-115
+2026-01-01 00:01:56 INFO service-116 heartbeat ok
+2026-01-01 00:01:57 INFO service-117 heartbeat ok
+2026-01-01 00:01:58 WARNING service-118 heartbeat ok
+2026-01-01 00:01:59 INFO service-119 heartbeat ok
+2026-01-01 00:02:00 ERROR disk write failed on node-120
+2026-01-01 00:02:01 INFO service-121 heartbeat ok
+2026-01-01 00:02:02 INFO service-122 heartbeat ok
+2026-01-01 00:02:03 WARNING service-123 heartbeat ok
+2026-01-01 00:02:04 INFO service-124 heartbeat ok
+2026-01-01 00:02:05 ERROR disk write failed on node-125
+2026-01-01 00:02:06 INFO service-126 heartbeat ok
+2026-01-01 00:02:07 INFO service-127 heartbeat ok
+2026-01-01 00:02:08 WARNING service-128 heartbeat ok
+2026-01-01 00:02:09 INFO service-129 heartbeat ok
+2026-01-01 00:02:10 ERROR disk write failed on node-130
+2026-01-01 00:02:11 INFO service-131 heartbeat ok
+2026-01-01 00:02:12 INFO service-132 heartbeat ok
+2026-01-01 00:02:13 WARNING service-133 heartbeat ok
+2026-01-01 00:02:14 INFO service-134 heartbeat ok
+2026-01-01 00:02:15 ERROR disk write failed on node-135
+2026-01-01 00:02:16 INFO service-136 heartbeat ok
+2026-01-01 00:02:17 INFO service-137 heartbeat ok
+2026-01-01 00:02:18 WARNING service-138 heartbeat ok
+2026-01-01 00:02:19 INFO service-139 heartbeat ok
+2026-01-01 00:02:20 ERROR disk write failed on node-140
+2026-01-01 00:02:21 INFO service-141 heartbeat ok
+2026-01-01 00:02:22 INFO service-142 heartbeat ok
+2026-01-01 00:02:23 WARNING service-143 heartbeat ok
+2026-01-01 00:02:24 INFO service-144 heartbeat ok
+2026-01-01 00:02:25 ERROR disk write failed on node-145
+2026-01-01 00:02:26 INFO service-146 heartbeat ok
+2026-01-01 00:02:27 INFO service-147 heartbeat ok
+2026-01-01 00:02:28 WARNING service-148 heartbeat ok
+2026-01-01 00:02:29 INFO service-149 heartbeat ok
+2026-01-01 00:02:30 ERROR disk write failed on node-150
+2026-01-01 00:02:31 INFO service-151 heartbeat ok
+2026-01-01 00:02:32 INFO recovered from error in module-152
+2026-01-01 00:02:33 WARNING service-153 heartbeat ok
+2026-01-01 00:02:34 INFO service-154 heartbeat ok
+2026-01-01 00:02:35 ERROR disk write failed on node-155
+2026-01-01 00:02:36 INFO service-156 heartbeat ok
+2026-01-01 00:02:37 INFO service-157 heartbeat ok
+2026-01-01 00:02:38 WARNING service-158 heartbeat ok
+2026-01-01 00:02:39 INFO service-159 heartbeat ok
+2026-01-01 00:02:40 ERROR disk write failed on node-160
+2026-01-01 00:02:41 INFO service-161 heartbeat ok
+2026-01-01 00:02:42 INFO service-162 heartbeat ok
+2026-01-01 00:02:43 WARNING service-163 heartbeat ok
+2026-01-01 00:02:44 INFO service-164 heartbeat ok
+2026-01-01 00:02:45 ERROR disk write failed on node-165
+2026-01-01 00:02:46 INFO service-166 heartbeat ok
+2026-01-01 00:02:47 INFO service-167 heartbeat ok
+2026-01-01 00:02:48 WARNING service-168 heartbeat ok
+2026-01-01 00:02:49 INFO service-169 heartbeat ok
+2026-01-01 00:02:50 ERROR disk write failed on node-170
+2026-01-01 00:02:51 INFO service-171 heartbeat ok
+2026-01-01 00:02:52 INFO service-172 heartbeat ok
+2026-01-01 00:02:53 WARNING service-173 heartbeat ok
+2026-01-01 00:02:54 INFO service-174 heartbeat ok
+2026-01-01 00:02:55 ERROR disk write failed on node-175
+2026-01-01 00:02:56 INFO service-176 heartbeat ok
+2026-01-01 00:02:57 INFO service-177 heartbeat ok
+2026-01-01 00:02:58 WARNING service-178 heartbeat ok
+2026-01-01 00:02:59 INFO service-179 heartbeat ok
+2026-01-01 00:03:00 ERROR disk write failed on node-180
+2026-01-01 00:03:01 INFO service-181 heartbeat ok
+2026-01-01 00:03:02 INFO service-182 heartbeat ok
+2026-01-01 00:03:03 WARNING service-183 heartbeat ok
+2026-01-01 00:03:04 INFO service-184 heartbeat ok
+2026-01-01 00:03:05 ERROR disk write failed on node-185
+2026-01-01 00:03:06 INFO service-186 heartbeat ok
+2026-01-01 00:03:07 INFO service-187 heartbeat ok
+2026-01-01 00:03:08 WARNING service-188 heartbeat ok
+2026-01-01 00:03:09 INFO service-189 heartbeat ok
+2026-01-01 00:03:10 ERROR disk write failed on node-190
+2026-01-01 00:03:11 INFO service-191 heartbeat ok
+2026-01-01 00:03:12 INFO service-192 heartbeat ok
+2026-01-01 00:03:13 WARNING service-193 heartbeat ok
+2026-01-01 00:03:14 INFO service-194 heartbeat ok
+2026-01-01 00:03:15 ERROR disk write failed on node-195
+2026-01-01 00:03:16 INFO service-196 heartbeat ok
+2026-01-01 00:03:17 INFO service-197 heartbeat ok
+2026-01-01 00:03:18 WARNING service-198 heartbeat ok
+2026-01-01 00:03:19 INFO service-199 heartbeat ok
+2026-01-01 00:03:20 ERROR disk write failed on node-200
+2026-01-01 00:03:21 INFO service-201 heartbeat ok
+2026-01-01 00:03:22 INFO recovered from error in module-202
+2026-01-01 00:03:23 WARNING service-203 heartbeat ok
+2026-01-01 00:03:24 INFO service-204 heartbeat ok
+2026-01-01 00:03:25 ERROR disk write failed on node-205
+2026-01-01 00:03:26 INFO service-206 heartbeat ok
+2026-01-01 00:03:27 INFO service-207 heartbeat ok
+2026-01-01 00:03:28 WARNING service-208 heartbeat ok
+2026-01-01 00:03:29 INFO service-209 heartbeat ok
+2026-01-01 00:03:30 ERROR disk write failed on node-210
+2026-01-01 00:03:31 INFO service-211 heartbeat ok
+2026-01-01 00:03:32 INFO service-212 heartbeat ok
+2026-01-01 00:03:33 WARNING service-213 heartbeat ok
+2026-01-01 00:03:34 INFO service-214 heartbeat ok
+2026-01-01 00:03:35 ERROR disk write failed on node-215
+2026-01-01 00:03:36 INFO service-216 heartbeat ok
+2026-01-01 00:03:37 INFO service-217 heartbeat ok
+2026-01-01 00:03:38 WARNING service-218 heartbeat ok
+2026-01-01 00:03:39 INFO service-219 heartbeat ok
+2026-01-01 00:03:40 ERROR disk write failed on node-220
+2026-01-01 00:03:41 INFO service-221 heartbeat ok
+2026-01-01 00:03:42 INFO service-222 heartbeat ok
+2026-01-01 00:03:43 WARNING service-223 heartbeat ok
+2026-01-01 00:03:44 INFO service-224 heartbeat ok
+2026-01-01 00:03:45 ERROR disk write failed on node-225
+2026-01-01 00:03:46 INFO service-226 heartbeat ok
+2026-01-01 00:03:47 INFO service-227 heartbeat ok
+2026-01-01 00:03:48 WARNING service-228 heartbeat ok
+2026-01-01 00:03:49 INFO service-229 heartbeat ok
+2026-01-01 00:03:50 ERROR disk write failed on node-230
+2026-01-01 00:03:51 INFO service-231 heartbeat ok
+2026-01-01 00:03:52 INFO service-232 heartbeat ok
+2026-01-01 00:03:53 WARNING service-233 heartbeat ok
+2026-01-01 00:03:54 INFO service-234 heartbeat ok
+2026-01-01 00:03:55 ERROR disk write failed on node-235
+2026-01-01 00:03:56 INFO service-236 heartbeat ok
+2026-01-01 00:03:57 INFO service-237 heartbeat ok
+2026-01-01 00:03:58 WARNING service-238 heartbeat ok
+2026-01-01 00:03:59 INFO service-239 heartbeat ok
+2026-01-01 00:04:00 ERROR disk write failed on node-240
+2026-01-01 00:04:01 INFO service-241 heartbeat ok
+2026-01-01 00:04:02 INFO service-242 heartbeat ok
+2026-01-01 00:04:03 WARNING service-243 heartbeat ok
+2026-01-01 00:04:04 INFO service-244 heartbeat ok
+2026-01-01 00:04:05 ERROR disk write failed on node-245
+2026-01-01 00:04:06 INFO service-246 heartbeat ok
+2026-01-01 00:04:07 INFO service-247 heartbeat ok
+2026-01-01 00:04:08 WARNING service-248 heartbeat ok
+2026-01-01 00:04:09 INFO service-249 heartbeat ok
+2026-01-01 00:04:10 ERROR disk write failed on node-250
+2026-01-01 00:04:11 INFO service-251 heartbeat ok
+2026-01-01 00:04:12 INFO recovered from error in module-252
+2026-01-01 00:04:13 WARNING service-253 heartbeat ok
+2026-01-01 00:04:14 INFO service-254 heartbeat ok
+2026-01-01 00:04:15 ERROR disk write failed on node-255
+2026-01-01 00:04:16 INFO service-256 heartbeat ok
+2026-01-01 00:04:17 INFO service-257 heartbeat ok
+2026-01-01 00:04:18 WARNING service-258 heartbeat ok
+2026-01-01 00:04:19 INFO service-259 heartbeat ok
+2026-01-01 00:04:20 ERROR disk write failed on node-260
+2026-01-01 00:04:21 INFO service-261 heartbeat ok
+2026-01-01 00:04:22 INFO service-262 heartbeat ok
+2026-01-01 00:04:23 WARNING service-263 heartbeat ok
+2026-01-01 00:04:24 INFO service-264 heartbeat ok
+2026-01-01 00:04:25 ERROR disk write failed on node-265
+2026-01-01 00:04:26 INFO service-266 heartbeat ok
+2026-01-01 00:04:27 INFO service-267 heartbeat ok
+2026-01-01 00:04:28 WARNING service-268 heartbeat ok
+2026-01-01 00:04:29 INFO service-269 heartbeat ok
+2026-01-01 00:04:30 ERROR disk write failed on node-270
+2026-01-01 00:04:31 INFO service-271 heartbeat ok
+2026-01-01 00:04:32 INFO service-272 heartbeat ok
+2026-01-01 00:04:33 WARNING service-273 heartbeat ok
+2026-01-01 00:04:34 INFO service-274 heartbeat ok
+2026-01-01 00:04:35 ERROR disk write failed on node-275
+2026-01-01 00:04:36 INFO service-276 heartbeat ok
+2026-01-01 00:04:37 INFO service-277 heartbeat ok
+2026-01-01 00:04:38 WARNING service-278 heartbeat ok
+2026-01-01 00:04:39 INFO service-279 heartbeat ok
+2026-01-01 00:04:40 ERROR disk write failed on node-280
+2026-01-01 00:04:41 INFO service-281 heartbeat ok
+2026-01-01 00:04:42 INFO service-282 heartbeat ok
+2026-01-01 00:04:43 WARNING service-283 heartbeat ok
+2026-01-01 00:04:44 INFO service-284 heartbeat ok
+2026-01-01 00:04:45 ERROR disk write failed on node-285
+2026-01-01 00:04:46 INFO service-286 heartbeat ok
+2026-01-01 00:04:47 INFO service-287 heartbeat ok
+2026-01-01 00:04:48 WARNING service-288 heartbeat ok
+2026-01-01 00:04:49 INFO service-289 heartbeat ok
+2026-01-01 00:04:50 ERROR disk write failed on node-290
+2026-01-01 00:04:51 INFO service-291 heartbeat ok
+2026-01-01 00:04:52 INFO service-292 heartbeat ok
+2026-01-01 00:04:53 WARNING service-293 heartbeat ok
+2026-01-01 00:04:54 INFO service-294 heartbeat ok
+2026-01-01 00:04:55 ERROR disk write failed on node-295
+2026-01-01 00:04:56 INFO service-296 heartbeat ok
+2026-01-01 00:04:57 INFO service-297 heartbeat ok
+2026-01-01 00:04:58 WARNING service-298 heartbeat ok
+2026-01-01 00:04:59 INFO service-299 heartbeat ok
+2026-01-01 00:05:00 ERROR disk write failed on node-300
+2026-01-01 00:05:01 INFO service-301 heartbeat ok
+2026-01-01 00:05:02 INFO recovered from error in module-302
+2026-01-01 00:05:03 WARNING service-303 heartbeat ok
+2026-01-01 00:05:04 INFO service-304 heartbeat ok
+2026-01-01 00:05:05 ERROR disk write failed on node-305
+2026-01-01 00:05:06 INFO service-306 heartbeat ok
+2026-01-01 00:05:07 INFO service-307 heartbeat ok
+2026-01-01 00:05:08 WARNING service-308 heartbeat ok
+2026-01-01 00:05:09 INFO service-309 heartbeat ok
+2026-01-01 00:05:10 ERROR disk write failed on node-310
+2026-01-01 00:05:11 INFO service-311 heartbeat ok
+2026-01-01 00:05:12 INFO service-312 heartbeat ok
+2026-01-01 00:05:13 WARNING service-313 heartbeat ok
+2026-01-01 00:05:14 INFO service-314 heartbeat ok
+2026-01-01 00:05:15 ERROR disk write failed on node-315
+2026-01-01 00:05:16 INFO service-316 heartbeat ok
+2026-01-01 00:05:17 INFO service-317 heartbeat ok
+2026-01-01 00:05:18 WARNING service-318 heartbeat ok
+2026-01-01 00:05:19 INFO service-319 heartbeat ok
+2026-01-01 00:05:20 ERROR disk write failed on node-320
+2026-01-01 00:05:21 INFO service-321 heartbeat ok
+2026-01-01 00:05:22 INFO service-322 heartbeat ok
+2026-01-01 00:05:23 WARNING service-323 heartbeat ok
+2026-01-01 00:05:24 INFO service-324 heartbeat ok
+2026-01-01 00:05:25 ERROR disk write failed on node-325
+2026-01-01 00:05:26 INFO service-326 heartbeat ok
+2026-01-01 00:05:27 INFO service-327 heartbeat ok
+2026-01-01 00:05:28 WARNING service-328 heartbeat ok
+2026-01-01 00:05:29 INFO service-329 heartbeat ok
+2026-01-01 00:05:30 ERROR disk write failed on node-330
+2026-01-01 00:05:31 INFO service-331 heartbeat ok
+2026-01-01 00:05:32 INFO service-332 heartbeat ok
+2026-01-01 00:05:33 WARNING service-333 heartbeat ok
+2026-01-01 00:05:34 INFO service-334 heartbeat ok
+2026-01-01 00:05:35 ERROR disk write failed on node-335
+2026-01-01 00:05:36 INFO service-336 heartbeat ok
+2026-01-01 00:05:37 INFO service-337 heartbeat ok
+2026-01-01 00:05:38 WARNING service-338 heartbeat ok
+2026-01-01 00:05:39 INFO service-339 heartbeat ok
+2026-01-01 00:05:40 ERROR disk write failed on node-340
+2026-01-01 00:05:41 INFO service-341 heartbeat ok
+2026-01-01 00:05:42 INFO service-342 heartbeat ok
+2026-01-01 00:05:43 WARNING service-343 heartbeat ok
+2026-01-01 00:05:44 INFO service-344 heartbeat ok
+2026-01-01 00:05:45 ERROR disk write failed on node-345
+2026-01-01 00:05:46 INFO service-346 heartbeat ok
+2026-01-01 00:05:47 INFO service-347 heartbeat ok
+2026-01-01 00:05:48 WARNING service-348 heartbeat ok
+2026-01-01 00:05:49 INFO service-349 heartbeat ok
+2026-01-01 00:05:50 ERROR disk write failed on node-350
+2026-01-01 00:05:51 INFO service-351 heartbeat ok
+2026-01-01 00:05:52 INFO recovered from error in module-352
+2026-01-01 00:05:53 WARNING service-353 heartbeat ok
+2026-01-01 00:05:54 INFO service-354 heartbeat ok
+2026-01-01 00:05:55 ERROR disk write failed on node-355
+2026-01-01 00:05:56 INFO service-356 heartbeat ok
+2026-01-01 00:05:57 INFO service-357 heartbeat ok
+2026-01-01 00:05:58 WARNING service-358 heartbeat ok
+2026-01-01 00:05:59 INFO service-359 heartbeat ok
+2026-01-01 00:06:00 ERROR disk write failed on node-360
+2026-01-01 00:06:01 INFO service-361 heartbeat ok
+2026-01-01 00:06:02 INFO service-362 heartbeat ok
+2026-01-01 00:06:03 WARNING service-363 heartbeat ok
+2026-01-01 00:06:04 INFO service-364 heartbeat ok
+2026-01-01 00:06:05 ERROR disk write failed on node-365
+2026-01-01 00:06:06 INFO service-366 heartbeat ok
+2026-01-01 00:06:07 INFO service-367 heartbeat ok
+2026-01-01 00:06:08 WARNING service-368 heartbeat ok
+2026-01-01 00:06:09 INFO service-369 heartbeat ok
+2026-01-01 00:06:10 ERROR disk write failed on node-370
+2026-01-01 00:06:11 INFO service-371 heartbeat ok
+2026-01-01 00:06:12 INFO service-372 heartbeat ok
+2026-01-01 00:06:13 WARNING service-373 heartbeat ok
+2026-01-01 00:06:14 INFO service-374 heartbeat ok
+2026-01-01 00:06:15 ERROR disk write failed on node-375
+2026-01-01 00:06:16 INFO service-376 heartbeat ok
+2026-01-01 00:06:17 INFO service-377 heartbeat ok
+2026-01-01 00:06:18 WARNING service-378 heartbeat ok
+2026-01-01 00:06:19 INFO service-379 heartbeat ok
+2026-01-01 00:06:20 ERROR disk write failed on node-380
+2026-01-01 00:06:21 INFO service-381 heartbeat ok
+2026-01-01 00:06:22 INFO service-382 heartbeat ok
+2026-01-01 00:06:23 WARNING service-383 heartbeat ok
+2026-01-01 00:06:24 INFO service-384 heartbeat ok
+2026-01-01 00:06:25 ERROR disk write failed on node-385
+2026-01-01 00:06:26 INFO service-386 heartbeat ok
+2026-01-01 00:06:27 INFO service-387 heartbeat ok
+2026-01-01 00:06:28 WARNING service-388 heartbeat ok
+2026-01-01 00:06:29 INFO service-389 heartbeat ok
+2026-01-01 00:06:30 ERROR disk write failed on node-390
+2026-01-01 00:06:31 INFO service-391 heartbeat ok
+2026-01-01 00:06:32 INFO service-392 heartbeat ok
+2026-01-01 00:06:33 WARNING service-393 heartbeat ok
+2026-01-01 00:06:34 INFO service-394 heartbeat ok
+2026-01-01 00:06:35 ERROR disk write failed on node-395
+2026-01-01 00:06:36 INFO service-396 heartbeat ok
+2026-01-01 00:06:37 INFO service-397 heartbeat ok
+2026-01-01 00:06:38 WARNING service-398 heartbeat ok
+2026-01-01 00:06:39 INFO service-399 heartbeat ok
+2026-01-01 00:06:40 ERROR disk write failed on node-400
+2026-01-01 00:06:41 INFO service-401 heartbeat ok
+2026-01-01 00:06:42 INFO recovered from error in module-402
+2026-01-01 00:06:43 WARNING service-403 heartbeat ok
+2026-01-01 00:06:44 INFO service-404 heartbeat ok
+2026-01-01 00:06:45 ERROR disk write failed on node-405
+2026-01-01 00:06:46 INFO service-406 heartbeat ok
+2026-01-01 00:06:47 INFO service-407 heartbeat ok
+2026-01-01 00:06:48 WARNING service-408 heartbeat ok
+2026-01-01 00:06:49 INFO service-409 heartbeat ok
+2026-01-01 00:06:50 ERROR disk write failed on node-410
+2026-01-01 00:06:51 INFO service-411 heartbeat ok
+2026-01-01 00:06:52 INFO service-412 heartbeat ok
+2026-01-01 00:06:53 WARNING service-413 heartbeat ok
+2026-01-01 00:06:54 INFO service-414 heartbeat ok
+2026-01-01 00:06:55 ERROR disk write failed on node-415
+2026-01-01 00:06:56 INFO service-416 heartbeat ok
+2026-01-01 00:06:57 INFO service-417 heartbeat ok
+2026-01-01 00:06:58 WARNING service-418 heartbeat ok
+2026-01-01 00:06:59 INFO service-419 heartbeat ok
+2026-01-01 00:07:00 ERROR disk write failed on node-420
+2026-01-01 00:07:01 INFO service-421 heartbeat ok
+2026-01-01 00:07:02 INFO service-422 heartbeat ok
+2026-01-01 00:07:03 WARNING service-423 heartbeat ok
+2026-01-01 00:07:04 INFO service-424 heartbeat ok
+2026-01-01 00:07:05 ERROR disk write failed on node-425
+2026-01-01 00:07:06 INFO service-426 heartbeat ok
+2026-01-01 00:07:07 INFO service-427 heartbeat ok
+2026-01-01 00:07:08 WARNING service-428 heartbeat ok
+2026-01-01 00:07:09 INFO service-429 heartbeat ok
+2026-01-01 00:07:10 ERROR disk write failed on node-430
+2026-01-01 00:07:11 INFO service-431 heartbeat ok
+2026-01-01 00:07:12 INFO service-432 heartbeat ok
+2026-01-01 00:07:13 WARNING service-433 heartbeat ok
+2026-01-01 00:07:14 INFO service-434 heartbeat ok
+2026-01-01 00:07:15 ERROR disk write failed on node-435
+2026-01-01 00:07:16 INFO service-436 heartbeat ok
+2026-01-01 00:07:17 INFO service-437 heartbeat ok
+2026-01-01 00:07:18 WARNING service-438 heartbeat ok
+2026-01-01 00:07:19 INFO service-439 heartbeat ok
+2026-01-01 00:07:20 ERROR disk write failed on node-440
+2026-01-01 00:07:21 INFO service-441 heartbeat ok
+2026-01-01 00:07:22 INFO service-442 heartbeat ok
+2026-01-01 00:07:23 WARNING service-443 heartbeat ok
+2026-01-01 00:07:24 INFO service-444 heartbeat ok
+2026-01-01 00:07:25 ERROR disk write failed on node-445
+2026-01-01 00:07:26 INFO service-446 heartbeat ok
+2026-01-01 00:07:27 INFO service-447 heartbeat ok
+2026-01-01 00:07:28 WARNING service-448 heartbeat ok
+2026-01-01 00:07:29 INFO service-449 heartbeat ok
+2026-01-01 00:07:30 ERROR disk write failed on node-450
+2026-01-01 00:07:31 INFO service-451 heartbeat ok
+2026-01-01 00:07:32 INFO recovered from error in module-452
+2026-01-01 00:07:33 WARNING service-453 heartbeat ok
+2026-01-01 00:07:34 INFO service-454 heartbeat ok
+2026-01-01 00:07:35 ERROR disk write failed on node-455
+2026-01-01 00:07:36 INFO service-456 heartbeat ok
+2026-01-01 00:07:37 INFO service-457 heartbeat ok
+2026-01-01 00:07:38 WARNING service-458 heartbeat ok
+2026-01-01 00:07:39 INFO service-459 heartbeat ok
+2026-01-01 00:07:40 ERROR disk write failed on node-460
+2026-01-01 00:07:41 INFO service-461 heartbeat ok
+2026-01-01 00:07:42 INFO service-462 heartbeat ok
+2026-01-01 00:07:43 WARNING service-463 heartbeat ok
+2026-01-01 00:07:44 INFO service-464 heartbeat ok
+2026-01-01 00:07:45 ERROR disk write failed on node-465
+2026-01-01 00:07:46 INFO service-466 heartbeat ok
+2026-01-01 00:07:47 INFO service-467 heartbeat ok
+2026-01-01 00:07:48 WARNING service-468 heartbeat ok
+2026-01-01 00:07:49 INFO service-469 heartbeat ok
+2026-01-01 00:07:50 ERROR disk write failed on node-470
+2026-01-01 00:07:51 INFO service-471 heartbeat ok
+2026-01-01 00:07:52 INFO service-472 heartbeat ok
+2026-01-01 00:07:53 WARNING service-473 heartbeat ok
+2026-01-01 00:07:54 INFO service-474 heartbeat ok
+2026-01-01 00:07:55 ERROR disk write failed on node-475
+2026-01-01 00:07:56 INFO service-476 heartbeat ok
+2026-01-01 00:07:57 INFO service-477 heartbeat ok
+2026-01-01 00:07:58 WARNING service-478 heartbeat ok
+2026-01-01 00:07:59 INFO service-479 heartbeat ok
+2026-01-01 00:08:00 ERROR disk write failed on node-480
+2026-01-01 00:08:01 INFO service-481 heartbeat ok
+2026-01-01 00:08:02 INFO service-482 heartbeat ok
+2026-01-01 00:08:03 WARNING service-483 heartbeat ok
+2026-01-01 00:08:04 INFO service-484 heartbeat ok
+2026-01-01 00:08:05 ERROR disk write failed on node-485
+2026-01-01 00:08:06 INFO service-486 heartbeat ok
+2026-01-01 00:08:07 INFO service-487 heartbeat ok
+2026-01-01 00:08:08 WARNING service-488 heartbeat ok
+2026-01-01 00:08:09 INFO service-489 heartbeat ok
+2026-01-01 00:08:10 ERROR disk write failed on node-490
+2026-01-01 00:08:11 INFO service-491 heartbeat ok
+2026-01-01 00:08:12 INFO service-492 heartbeat ok
+2026-01-01 00:08:13 WARNING service-493 heartbeat ok
+2026-01-01 00:08:14 INFO service-494 heartbeat ok
+2026-01-01 00:08:15 ERROR disk write failed on node-495
+2026-01-01 00:08:16 INFO service-496 heartbeat ok
+2026-01-01 00:08:17 INFO service-497 heartbeat ok
+2026-01-01 00:08:18 WARNING service-498 heartbeat ok
+2026-01-01 00:08:19 INFO service-499 heartbeat ok
+2026-01-01 00:08:20 ERROR disk write failed on node-500
+2026-01-01 00:08:21 INFO service-501 heartbeat ok
+2026-01-01 00:08:22 INFO recovered from error in module-502
+2026-01-01 00:08:23 WARNING service-503 heartbeat ok
+2026-01-01 00:08:24 INFO service-504 heartbeat ok
+2026-01-01 00:08:25 ERROR disk write failed on node-505
+2026-01-01 00:08:26 INFO service-506 heartbeat ok
+2026-01-01 00:08:27 INFO service-507 heartbeat ok
+2026-01-01 00:08:28 WARNING service-508 heartbeat ok
+2026-01-01 00:08:29 INFO service-509 heartbeat ok
+2026-01-01 00:08:30 ERROR disk write failed on node-510
+2026-01-01 00:08:31 INFO service-511 heartbeat ok
+2026-01-01 00:08:32 INFO service-512 heartbeat ok
+2026-01-01 00:08:33 WARNING service-513 heartbeat ok
+2026-01-01 00:08:34 INFO service-514 heartbeat ok
+2026-01-01 00:08:35 ERROR disk write failed on node-515
+2026-01-01 00:08:36 INFO service-516 heartbeat ok
+2026-01-01 00:08:37 INFO service-517 heartbeat ok
+2026-01-01 00:08:38 WARNING service-518 heartbeat ok
+2026-01-01 00:08:39 INFO service-519 heartbeat ok
+2026-01-01 00:08:40 ERROR disk write failed on node-520
+2026-01-01 00:08:41 INFO service-521 heartbeat ok
+2026-01-01 00:08:42 INFO service-522 heartbeat ok
+2026-01-01 00:08:43 WARNING service-523 heartbeat ok
+2026-01-01 00:08:44 INFO service-524 heartbeat ok
+2026-01-01 00:08:45 ERROR disk write failed on node-525
+2026-01-01 00:08:46 INFO service-526 heartbeat ok
+2026-01-01 00:08:47 INFO service-527 heartbeat ok
+2026-01-01 00:08:48 WARNING service-528 heartbeat ok
+2026-01-01 00:08:49 INFO service-529 heartbeat ok
+2026-01-01 00:08:50 ERROR disk write failed on node-530
+2026-01-01 00:08:51 INFO service-531 heartbeat ok
+2026-01-01 00:08:52 INFO service-532 heartbeat ok
+2026-01-01 00:08:53 WARNING service-533 heartbeat ok
+2026-01-01 00:08:54 INFO service-534 heartbeat ok
+2026-01-01 00:08:55 ERROR disk write failed on node-535
+2026-01-01 00:08:56 INFO service-536 heartbeat ok
+2026-01-01 00:08:57 INFO service-537 heartbeat ok
+2026-01-01 00:08:58 WARNING service-538 heartbeat ok
+2026-01-01 00:08:59 INFO service-539 heartbeat ok
+2026-01-01 00:09:00 ERROR disk write failed on node-540
+2026-01-01 00:09:01 INFO service-541 heartbeat ok
+2026-01-01 00:09:02 INFO service-542 heartbeat ok
+2026-01-01 00:09:03 WARNING service-543 heartbeat ok
+2026-01-01 00:09:04 INFO service-544 heartbeat ok
+2026-01-01 00:09:05 ERROR disk write failed on node-545
+2026-01-01 00:09:06 INFO service-546 heartbeat ok
+2026-01-01 00:09:07 INFO service-547 heartbeat ok
+2026-01-01 00:09:08 WARNING service-548 heartbeat ok
+2026-01-01 00:09:09 INFO service-549 heartbeat ok
+2026-01-01 00:09:10 ERROR disk write failed on node-550
+2026-01-01 00:09:11 INFO service-551 heartbeat ok
+2026-01-01 00:09:12 INFO recovered from error in module-552
+2026-01-01 00:09:13 WARNING service-553 heartbeat ok
+2026-01-01 00:09:14 INFO service-554 heartbeat ok
+2026-01-01 00:09:15 ERROR disk write failed on node-555
+2026-01-01 00:09:16 INFO service-556 heartbeat ok
+2026-01-01 00:09:17 INFO service-557 heartbeat ok
+2026-01-01 00:09:18 WARNING service-558 heartbeat ok
+2026-01-01 00:09:19 INFO service-559 heartbeat ok
+2026-01-01 00:09:20 ERROR disk write failed on node-560
+2026-01-01 00:09:21 INFO service-561 heartbeat ok
+2026-01-01 00:09:22 INFO service-562 heartbeat ok
+2026-01-01 00:09:23 WARNING service-563 heartbeat ok
+2026-01-01 00:09:24 INFO service-564 heartbeat ok
+2026-01-01 00:09:25 ERROR disk write failed on node-565
+2026-01-01 00:09:26 INFO service-566 heartbeat ok
+2026-01-01 00:09:27 INFO service-567 heartbeat ok
+2026-01-01 00:09:28 WARNING service-568 heartbeat ok
+2026-01-01 00:09:29 INFO service-569 heartbeat ok
+2026-01-01 00:09:30 ERROR disk write failed on node-570
+2026-01-01 00:09:31 INFO service-571 heartbeat ok
+2026-01-01 00:09:32 INFO service-572 heartbeat ok
+2026-01-01 00:09:33 WARNING service-573 heartbeat ok
+2026-01-01 00:09:34 INFO service-574 heartbeat ok
+2026-01-01 00:09:35 ERROR disk write failed on node-575
+2026-01-01 00:09:36 INFO service-576 heartbeat ok
+2026-01-01 00:09:37 INFO service-577 heartbeat ok
+2026-01-01 00:09:38 WARNING service-578 heartbeat ok
+2026-01-01 00:09:39 INFO service-579 heartbeat ok
+2026-01-01 00:09:40 ERROR disk write failed on node-580
+2026-01-01 00:09:41 INFO service-581 heartbeat ok
+2026-01-01 00:09:42 INFO service-582 heartbeat ok
+2026-01-01 00:09:43 WARNING service-583 heartbeat ok
+2026-01-01 00:09:44 INFO service-584 heartbeat ok
+2026-01-01 00:09:45 ERROR disk write failed on node-585
+2026-01-01 00:09:46 INFO service-586 heartbeat ok
+2026-01-01 00:09:47 INFO service-587 heartbeat ok
+2026-01-01 00:09:48 WARNING service-588 heartbeat ok
+2026-01-01 00:09:49 INFO service-589 heartbeat ok
+2026-01-01 00:09:50 ERROR disk write failed on node-590
+2026-01-01 00:09:51 INFO service-591 heartbeat ok
+2026-01-01 00:09:52 INFO service-592 heartbeat ok
+2026-01-01 00:09:53 WARNING service-593 heartbeat ok
+2026-01-01 00:09:54 INFO service-594 heartbeat ok
+2026-01-01 00:09:55 ERROR disk write failed on node-595
+2026-01-01 00:09:56 INFO service-596 heartbeat ok
+2026-01-01 00:09:57 INFO service-597 heartbeat ok
+2026-01-01 00:09:58 WARNING service-598 heartbeat ok
+2026-01-01 00:09:59 INFO service-599 heartbeat ok
+2026-01-01 00:10:00 ERROR disk write failed on node-600
+2026-01-01 00:10:01 INFO service-601 heartbeat ok
+2026-01-01 00:10:02 INFO recovered from error in module-602
+2026-01-01 00:10:03 WARNING service-603 heartbeat ok
+2026-01-01 00:10:04 INFO service-604 heartbeat ok
+2026-01-01 00:10:05 ERROR disk write failed on node-605
+2026-01-01 00:10:06 INFO service-606 heartbeat ok
+2026-01-01 00:10:07 INFO service-607 heartbeat ok
+2026-01-01 00:10:08 WARNING service-608 heartbeat ok
+2026-01-01 00:10:09 INFO service-609 heartbeat ok
+2026-01-01 00:10:10 ERROR disk write failed on node-610
+2026-01-01 00:10:11 INFO service-611 heartbeat ok
+2026-01-01 00:10:12 INFO service-612 heartbeat ok
+2026-01-01 00:10:13 WARNING service-613 heartbeat ok
+2026-01-01 00:10:14 INFO service-614 heartbeat ok
+2026-01-01 00:10:15 ERROR disk write failed on node-615
+2026-01-01 00:10:16 INFO service-616 heartbeat ok
+2026-01-01 00:10:17 INFO service-617 heartbeat ok
+2026-01-01 00:10:18 WARNING service-618 heartbeat ok
+2026-01-01 00:10:19 INFO service-619 heartbeat ok
+2026-01-01 00:10:20 ERROR disk write failed on node-620
+2026-01-01 00:10:21 INFO service-621 heartbeat ok
+2026-01-01 00:10:22 INFO service-622 heartbeat ok
+2026-01-01 00:10:23 WARNING service-623 heartbeat ok
+2026-01-01 00:10:24 INFO service-624 heartbeat ok
+2026-01-01 00:10:25 ERROR disk write failed on node-625
+2026-01-01 00:10:26 INFO service-626 heartbeat ok
+2026-01-01 00:10:27 INFO service-627 heartbeat ok
+2026-01-01 00:10:28 WARNING service-628 heartbeat ok
+2026-01-01 00:10:29 INFO service-629 heartbeat ok
+2026-01-01 00:10:30 ERROR disk write failed on node-630
+2026-01-01 00:10:31 INFO service-631 heartbeat ok
+2026-01-01 00:10:32 INFO service-632 heartbeat ok
+2026-01-01 00:10:33 WARNING service-633 heartbeat ok
+2026-01-01 00:10:34 INFO service-634 heartbeat ok
+2026-01-01 00:10:35 ERROR disk write failed on node-635
+2026-01-01 00:10:36 INFO service-636 heartbeat ok
+2026-01-01 00:10:37 INFO service-637 heartbeat ok
+2026-01-01 00:10:38 WARNING service-638 heartbeat ok
+2026-01-01 00:10:39 INFO service-639 heartbeat ok
+2026-01-01 00:10:40 ERROR disk write failed on node-640
+2026-01-01 00:10:41 INFO service-641 heartbeat ok
+2026-01-01 00:10:42 INFO service-642 heartbeat ok
+2026-01-01 00:10:43 WARNING service-643 heartbeat ok
+2026-01-01 00:10:44 INFO service-644 heartbeat ok
+2026-01-01 00:10:45 ERROR disk write failed on node-645
+2026-01-01 00:10:46 INFO service-646 heartbeat ok
+2026-01-01 00:10:47 INFO service-647 heartbeat ok
+2026-01-01 00:10:48 WARNING service-648 heartbeat ok
+2026-01-01 00:10:49 INFO service-649 heartbeat ok
+2026-01-01 00:10:50 ERROR disk write failed on node-650
+2026-01-01 00:10:51 INFO service-651 heartbeat ok
+2026-01-01 00:10:52 INFO recovered from error in module-652
+2026-01-01 00:10:53 WARNING service-653 heartbeat ok
+2026-01-01 00:10:54 INFO service-654 heartbeat ok
+2026-01-01 00:10:55 ERROR disk write failed on node-655
+2026-01-01 00:10:56 INFO service-656 heartbeat ok
+2026-01-01 00:10:57 INFO service-657 heartbeat ok
+2026-01-01 00:10:58 WARNING service-658 heartbeat ok
+2026-01-01 00:10:59 INFO service-659 heartbeat ok
+2026-01-01 00:11:00 ERROR disk write failed on node-660
+2026-01-01 00:11:01 INFO service-661 heartbeat ok
+2026-01-01 00:11:02 INFO service-662 heartbeat ok
+2026-01-01 00:11:03 WARNING service-663 heartbeat ok
+2026-01-01 00:11:04 INFO service-664 heartbeat ok
+2026-01-01 00:11:05 ERROR disk write failed on node-665
+2026-01-01 00:11:06 INFO service-666 heartbeat ok
+2026-01-01 00:11:07 INFO service-667 heartbeat ok
+2026-01-01 00:11:08 WARNING service-668 heartbeat ok
+2026-01-01 00:11:09 INFO service-669 heartbeat ok
+2026-01-01 00:11:10 ERROR disk write failed on node-670
+2026-01-01 00:11:11 INFO service-671 heartbeat ok
+2026-01-01 00:11:12 INFO service-672 heartbeat ok
+2026-01-01 00:11:13 WARNING service-673 heartbeat ok
+2026-01-01 00:11:14 INFO service-674 heartbeat ok
+2026-01-01 00:11:15 ERROR disk write failed on node-675
+2026-01-01 00:11:16 INFO service-676 heartbeat ok
+2026-01-01 00:11:17 INFO service-677 heartbeat ok
+2026-01-01 00:11:18 WARNING service-678 heartbeat ok
+2026-01-01 00:11:19 INFO service-679 heartbeat ok
+2026-01-01 00:11:20 ERROR disk write failed on node-680
+2026-01-01 00:11:21 INFO service-681 heartbeat ok
+2026-01-01 00:11:22 INFO service-682 heartbeat ok
+2026-01-01 00:11:23 WARNING service-683 heartbeat ok
+2026-01-01 00:11:24 INFO service-684 heartbeat ok
+2026-01-01 00:11:25 ERROR disk write failed on node-685
+2026-01-01 00:11:26 INFO service-686 heartbeat ok
+2026-01-01 00:11:27 INFO service-687 heartbeat ok
+2026-01-01 00:11:28 WARNING service-688 heartbeat ok
+2026-01-01 00:11:29 INFO service-689 heartbeat ok
+2026-01-01 00:11:30 ERROR disk write failed on node-690
+2026-01-01 00:11:31 INFO service-691 heartbeat ok
+2026-01-01 00:11:32 INFO service-692 heartbeat ok
+2026-01-01 00:11:33 WARNING service-693 heartbeat ok
+2026-01-01 00:11:34 INFO service-694 heartbeat ok
+2026-01-01 00:11:35 ERROR disk write failed on node-695
+2026-01-01 00:11:36 INFO service-696 heartbeat ok
+2026-01-01 00:11:37 INFO service-697 heartbeat ok
+2026-01-01 00:11:38 WARNING service-698 heartbeat ok
+2026-01-01 00:11:39 INFO service-699 heartbeat ok
+2026-01-01 00:11:40 ERROR disk write failed on node-700
+2026-01-01 00:11:41 INFO service-701 heartbeat ok
+2026-01-01 00:11:42 INFO recovered from error in module-702
+2026-01-01 00:11:43 WARNING service-703 heartbeat ok
+2026-01-01 00:11:44 INFO service-704 heartbeat ok
+2026-01-01 00:11:45 ERROR disk write failed on node-705
+2026-01-01 00:11:46 INFO service-706 heartbeat ok
+2026-01-01 00:11:47 INFO service-707 heartbeat ok
+2026-01-01 00:11:48 WARNING service-708 heartbeat ok
+2026-01-01 00:11:49 INFO service-709 heartbeat ok
+2026-01-01 00:11:50 ERROR disk write failed on node-710
+2026-01-01 00:11:51 INFO service-711 heartbeat ok
+2026-01-01 00:11:52 INFO service-712 heartbeat ok
+2026-01-01 00:11:53 WARNING service-713 heartbeat ok
+2026-01-01 00:11:54 INFO service-714 heartbeat ok
+2026-01-01 00:11:55 ERROR disk write failed on node-715
+2026-01-01 00:11:56 INFO service-716 heartbeat ok
+2026-01-01 00:11:57 INFO service-717 heartbeat ok
+2026-01-01 00:11:58 WARNING service-718 heartbeat ok
+2026-01-01 00:11:59 INFO service-719 heartbeat ok
+2026-01-01 00:12:00 ERROR disk write failed on node-720
+2026-01-01 00:12:01 INFO service-721 heartbeat ok
+2026-01-01 00:12:02 INFO service-722 heartbeat ok
+2026-01-01 00:12:03 WARNING service-723 heartbeat ok
+2026-01-01 00:12:04 INFO service-724 heartbeat ok
+2026-01-01 00:12:05 ERROR disk write failed on node-725
+2026-01-01 00:12:06 INFO service-726 heartbeat ok
+2026-01-01 00:12:07 INFO service-727 heartbeat ok
+2026-01-01 00:12:08 WARNING service-728 heartbeat ok
+2026-01-01 00:12:09 INFO service-729 heartbeat ok
+2026-01-01 00:12:10 ERROR disk write failed on node-730
+2026-01-01 00:12:11 INFO service-731 heartbeat ok
+2026-01-01 00:12:12 INFO service-732 heartbeat ok
+2026-01-01 00:12:13 WARNING service-733 heartbeat ok
+2026-01-01 00:12:14 INFO service-734 heartbeat ok
+2026-01-01 00:12:15 ERROR disk write failed on node-735
+2026-01-01 00:12:16 INFO service-736 heartbeat ok
+2026-01-01 00:12:17 INFO service-737 heartbeat ok
+2026-01-01 00:12:18 WARNING service-738 heartbeat ok
+2026-01-01 00:12:19 INFO service-739 heartbeat ok
+2026-01-01 00:12:20 ERROR disk write failed on node-740
+2026-01-01 00:12:21 INFO service-741 heartbeat ok
+2026-01-01 00:12:22 INFO service-742 heartbeat ok
+2026-01-01 00:12:23 WARNING service-743 heartbeat ok
+2026-01-01 00:12:24 INFO service-744 heartbeat ok
+2026-01-01 00:12:25 ERROR disk write failed on node-745
+2026-01-01 00:12:26 INFO service-746 heartbeat ok
+2026-01-01 00:12:27 INFO service-747 heartbeat ok
+2026-01-01 00:12:28 WARNING service-748 heartbeat ok
+2026-01-01 00:12:29 INFO service-749 heartbeat ok
+2026-01-01 00:12:30 ERROR disk write failed on node-750
+2026-01-01 00:12:31 INFO service-751 heartbeat ok
+2026-01-01 00:12:32 INFO recovered from error in module-752
+2026-01-01 00:12:33 WARNING service-753 heartbeat ok
+2026-01-01 00:12:34 INFO service-754 heartbeat ok
+2026-01-01 00:12:35 ERROR disk write failed on node-755
+2026-01-01 00:12:36 INFO service-756 heartbeat ok
+2026-01-01 00:12:37 INFO service-757 heartbeat ok
+2026-01-01 00:12:38 WARNING service-758 heartbeat ok
+2026-01-01 00:12:39 INFO service-759 heartbeat ok
+2026-01-01 00:12:40 ERROR disk write failed on node-760
+2026-01-01 00:12:41 INFO service-761 heartbeat ok
+2026-01-01 00:12:42 INFO service-762 heartbeat ok
+2026-01-01 00:12:43 WARNING service-763 heartbeat ok
+2026-01-01 00:12:44 INFO service-764 heartbeat ok
+2026-01-01 00:12:45 ERROR disk write failed on node-765
+2026-01-01 00:12:46 INFO service-766 heartbeat ok
+2026-01-01 00:12:47 INFO service-767 heartbeat ok
+2026-01-01 00:12:48 WARNING service-768 heartbeat ok
+2026-01-01 00:12:49 INFO service-769 heartbeat ok
+2026-01-01 00:12:50 ERROR disk write failed on node-770
+2026-01-01 00:12:51 INFO service-771 heartbeat ok
+2026-01-01 00:12:52 INFO service-772 heartbeat ok
+2026-01-01 00:12:53 WARNING service-773 heartbeat ok
+2026-01-01 00:12:54 INFO service-774 heartbeat ok
+2026-01-01 00:12:55 ERROR disk write failed on node-775
+2026-01-01 00:12:56 INFO service-776 heartbeat ok
+2026-01-01 00:12:57 INFO service-777 heartbeat ok
+2026-01-01 00:12:58 WARNING service-778 heartbeat ok
+2026-01-01 00:12:59 INFO service-779 heartbeat ok
+2026-01-01 00:13:00 ERROR disk write failed on node-780
+2026-01-01 00:13:01 INFO service-781 heartbeat ok
+2026-01-01 00:13:02 INFO service-782 heartbeat ok
+2026-01-01 00:13:03 WARNING service-783 heartbeat ok
+2026-01-01 00:13:04 INFO service-784 heartbeat ok
+2026-01-01 00:13:05 ERROR disk write failed on node-785
+2026-01-01 00:13:06 INFO service-786 heartbeat ok
+2026-01-01 00:13:07 INFO service-787 heartbeat ok
+2026-01-01 00:13:08 WARNING service-788 heartbeat ok
+2026-01-01 00:13:09 INFO service-789 heartbeat ok
+2026-01-01 00:13:10 ERROR disk write failed on node-790
+2026-01-01 00:13:11 INFO service-791 heartbeat ok
+2026-01-01 00:13:12 INFO service-792 heartbeat ok
+2026-01-01 00:13:13 WARNING service-793 heartbeat ok
+2026-01-01 00:13:14 INFO service-794 heartbeat ok
+2026-01-01 00:13:15 ERROR disk write failed on node-795
+2026-01-01 00:13:16 INFO service-796 heartbeat ok
+2026-01-01 00:13:17 INFO service-797 heartbeat ok
+2026-01-01 00:13:18 WARNING service-798 heartbeat ok
+2026-01-01 00:13:19 INFO service-799 heartbeat ok
+2026-01-01 00:13:20 ERROR disk write failed on node-800
+2026-01-01 00:13:21 INFO service-801 heartbeat ok
+2026-01-01 00:13:22 INFO recovered from error in module-802
+2026-01-01 00:13:23 WARNING service-803 heartbeat ok
+2026-01-01 00:13:24 INFO service-804 heartbeat ok
+2026-01-01 00:13:25 ERROR disk write failed on node-805
+2026-01-01 00:13:26 INFO service-806 heartbeat ok
+2026-01-01 00:13:27 INFO service-807 heartbeat ok
+2026-01-01 00:13:28 WARNING service-808 heartbeat ok
+2026-01-01 00:13:29 INFO service-809 heartbeat ok
+2026-01-01 00:13:30 ERROR disk write failed on node-810
+2026-01-01 00:13:31 INFO service-811 heartbeat ok
+2026-01-01 00:13:32 INFO service-812 heartbeat ok
+2026-01-01 00:13:33 WARNING service-813 heartbeat ok
+2026-01-01 00:13:34 INFO service-814 heartbeat ok
+2026-01-01 00:13:35 ERROR disk write failed on node-815
+2026-01-01 00:13:36 INFO service-816 heartbeat ok
+2026-01-01 00:13:37 INFO service-817 heartbeat ok
+2026-01-01 00:13:38 WARNING service-818 heartbeat ok
+2026-01-01 00:13:39 INFO service-819 heartbeat ok
+2026-01-01 00:13:40 ERROR disk write failed on node-820
+2026-01-01 00:13:41 INFO service-821 heartbeat ok
+2026-01-01 00:13:42 INFO service-822 heartbeat ok
+2026-01-01 00:13:43 WARNING service-823 heartbeat ok
+2026-01-01 00:13:44 INFO service-824 heartbeat ok
+2026-01-01 00:13:45 ERROR disk write failed on node-825
+2026-01-01 00:13:46 INFO service-826 heartbeat ok
+2026-01-01 00:13:47 INFO service-827 heartbeat ok
+2026-01-01 00:13:48 WARNING service-828 heartbeat ok
+2026-01-01 00:13:49 INFO service-829 heartbeat ok
+2026-01-01 00:13:50 ERROR disk write failed on node-830
+2026-01-01 00:13:51 INFO service-831 heartbeat ok
+2026-01-01 00:13:52 INFO service-832 heartbeat ok
+2026-01-01 00:13:53 WARNING service-833 heartbeat ok
+2026-01-01 00:13:54 INFO service-834 heartbeat ok
+2026-01-01 00:13:55 ERROR disk write failed on node-835
+2026-01-01 00:13:56 INFO service-836 heartbeat ok
+2026-01-01 00:13:57 INFO service-837 heartbeat ok
+2026-01-01 00:13:58 WARNING service-838 heartbeat ok
+2026-01-01 00:13:59 INFO service-839 heartbeat ok
+2026-01-01 00:14:00 ERROR disk write failed on node-840
+2026-01-01 00:14:01 INFO service-841 heartbeat ok
+2026-01-01 00:14:02 INFO service-842 heartbeat ok
+2026-01-01 00:14:03 WARNING service-843 heartbeat ok
+2026-01-01 00:14:04 INFO service-844 heartbeat ok
+2026-01-01 00:14:05 ERROR disk write failed on node-845
+2026-01-01 00:14:06 INFO service-846 heartbeat ok
+2026-01-01 00:14:07 INFO service-847 heartbeat ok
+2026-01-01 00:14:08 WARNING service-848 heartbeat ok
+2026-01-01 00:14:09 INFO service-849 heartbeat ok
+2026-01-01 00:14:10 ERROR disk write failed on node-850
+2026-01-01 00:14:11 INFO service-851 heartbeat ok
+2026-01-01 00:14:12 INFO recovered from error in module-852
+2026-01-01 00:14:13 WARNING service-853 heartbeat ok
+2026-01-01 00:14:14 INFO service-854 heartbeat ok
+2026-01-01 00:14:15 ERROR disk write failed on node-855
+2026-01-01 00:14:16 INFO service-856 heartbeat ok
+2026-01-01 00:14:17 INFO service-857 heartbeat ok
+2026-01-01 00:14:18 WARNING service-858 heartbeat ok
+2026-01-01 00:14:19 INFO service-859 heartbeat ok
+2026-01-01 00:14:20 ERROR disk write failed on node-860
+2026-01-01 00:14:21 INFO service-861 heartbeat ok
+2026-01-01 00:14:22 INFO service-862 heartbeat ok
+2026-01-01 00:14:23 WARNING service-863 heartbeat ok
+2026-01-01 00:14:24 INFO service-864 heartbeat ok
+2026-01-01 00:14:25 ERROR disk write failed on node-865
+2026-01-01 00:14:26 INFO service-866 heartbeat ok
+2026-01-01 00:14:27 INFO service-867 heartbeat ok
+2026-01-01 00:14:28 WARNING service-868 heartbeat ok
+2026-01-01 00:14:29 INFO service-869 heartbeat ok
+2026-01-01 00:14:30 ERROR disk write failed on node-870
+2026-01-01 00:14:31 INFO service-871 heartbeat ok
+2026-01-01 00:14:32 INFO service-872 heartbeat ok
+2026-01-01 00:14:33 WARNING service-873 heartbeat ok
+2026-01-01 00:14:34 INFO service-874 heartbeat ok
+2026-01-01 00:14:35 ERROR disk write failed on node-875
+2026-01-01 00:14:36 INFO service-876 heartbeat ok
+2026-01-01 00:14:37 INFO service-877 heartbeat ok
+2026-01-01 00:14:38 WARNING service-878 heartbeat ok
+2026-01-01 00:14:39 INFO service-879 heartbeat ok
+2026-01-01 00:14:40 ERROR disk write failed on node-880
+2026-01-01 00:14:41 INFO service-881 heartbeat ok
+2026-01-01 00:14:42 INFO service-882 heartbeat ok
+2026-01-01 00:14:43 WARNING service-883 heartbeat ok
+2026-01-01 00:14:44 INFO service-884 heartbeat ok
+2026-01-01 00:14:45 ERROR disk write failed on node-885
+2026-01-01 00:14:46 INFO service-886 heartbeat ok
+2026-01-01 00:14:47 INFO service-887 heartbeat ok
+2026-01-01 00:14:48 WARNING service-888 heartbeat ok
+2026-01-01 00:14:49 INFO service-889 heartbeat ok
+2026-01-01 00:14:50 ERROR disk write failed on node-890
+2026-01-01 00:14:51 INFO service-891 heartbeat ok
+2026-01-01 00:14:52 INFO service-892 heartbeat ok
+2026-01-01 00:14:53 WARNING service-893 heartbeat ok
+2026-01-01 00:14:54 INFO service-894 heartbeat ok
+2026-01-01 00:14:55 ERROR disk write failed on node-895
+2026-01-01 00:14:56 INFO service-896 heartbeat ok
+2026-01-01 00:14:57 INFO service-897 heartbeat ok
+2026-01-01 00:14:58 WARNING service-898 heartbeat ok
+2026-01-01 00:14:59 INFO service-899 heartbeat ok
+2026-01-01 00:15:00 ERROR disk write failed on node-900
+2026-01-01 00:15:01 INFO service-901 heartbeat ok
+2026-01-01 00:15:02 INFO recovered from error in module-902
+2026-01-01 00:15:03 WARNING service-903 heartbeat ok
+2026-01-01 00:15:04 INFO service-904 heartbeat ok
+2026-01-01 00:15:05 ERROR disk write failed on node-905
+2026-01-01 00:15:06 INFO service-906 heartbeat ok
+2026-01-01 00:15:07 INFO service-907 heartbeat ok
+2026-01-01 00:15:08 WARNING service-908 heartbeat ok
+2026-01-01 00:15:09 INFO service-909 heartbeat ok
+2026-01-01 00:15:10 ERROR disk write failed on node-910
+2026-01-01 00:15:11 INFO service-911 heartbeat ok
+2026-01-01 00:15:12 INFO service-912 heartbeat ok
+2026-01-01 00:15:13 WARNING service-913 heartbeat ok
+2026-01-01 00:15:14 INFO service-914 heartbeat ok
+2026-01-01 00:15:15 ERROR disk write failed on node-915
+2026-01-01 00:15:16 INFO service-916 heartbeat ok
+2026-01-01 00:15:17 INFO service-917 heartbeat ok
+2026-01-01 00:15:18 WARNING service-918 heartbeat ok
+2026-01-01 00:15:19 INFO service-919 heartbeat ok
+2026-01-01 00:15:20 ERROR disk write failed on node-920
+2026-01-01 00:15:21 INFO service-921 heartbeat ok
+2026-01-01 00:15:22 INFO service-922 heartbeat ok
+2026-01-01 00:15:23 WARNING service-923 heartbeat ok
+2026-01-01 00:15:24 INFO service-924 heartbeat ok
+2026-01-01 00:15:25 ERROR disk write failed on node-925
+2026-01-01 00:15:26 INFO service-926 heartbeat ok
+2026-01-01 00:15:27 INFO service-927 heartbeat ok
+2026-01-01 00:15:28 WARNING service-928 heartbeat ok
+2026-01-01 00:15:29 INFO service-929 heartbeat ok
+2026-01-01 00:15:30 ERROR disk write failed on node-930
+2026-01-01 00:15:31 INFO service-931 heartbeat ok
+2026-01-01 00:15:32 INFO service-932 heartbeat ok
+2026-01-01 00:15:33 WARNING service-933 heartbeat ok
+2026-01-01 00:15:34 INFO service-934 heartbeat ok
+2026-01-01 00:15:35 ERROR disk write failed on node-935
+2026-01-01 00:15:36 INFO service-936 heartbeat ok
+2026-01-01 00:15:37 INFO service-937 heartbeat ok
+2026-01-01 00:15:38 WARNING service-938 heartbeat ok
+2026-01-01 00:15:39 INFO service-939 heartbeat ok
+2026-01-01 00:15:40 ERROR disk write failed on node-940
+2026-01-01 00:15:41 INFO service-941 heartbeat ok
+2026-01-01 00:15:42 INFO service-942 heartbeat ok
+2026-01-01 00:15:43 WARNING service-943 heartbeat ok
+2026-01-01 00:15:44 INFO service-944 heartbeat ok
+2026-01-01 00:15:45 ERROR disk write failed on node-945
+2026-01-01 00:15:46 INFO service-946 heartbeat ok
+2026-01-01 00:15:47 INFO service-947 heartbeat ok
+2026-01-01 00:15:48 WARNING service-948 heartbeat ok
+2026-01-01 00:15:49 INFO service-949 heartbeat ok
+2026-01-01 00:15:50 ERROR disk write failed on node-950
+2026-01-01 00:15:51 INFO service-951 heartbeat ok
+2026-01-01 00:15:52 INFO recovered from error in module-952
+2026-01-01 00:15:53 WARNING service-953 heartbeat ok
+2026-01-01 00:15:54 INFO service-954 heartbeat ok
+2026-01-01 00:15:55 ERROR disk write failed on node-955
+2026-01-01 00:15:56 INFO service-956 heartbeat ok
+2026-01-01 00:15:57 INFO service-957 heartbeat ok
+2026-01-01 00:15:58 WARNING service-958 heartbeat ok
+2026-01-01 00:15:59 INFO service-959 heartbeat ok
+2026-01-01 00:16:00 ERROR disk write failed on node-960
+2026-01-01 00:16:01 INFO service-961 heartbeat ok
+2026-01-01 00:16:02 INFO service-962 heartbeat ok
+2026-01-01 00:16:03 WARNING service-963 heartbeat ok
+2026-01-01 00:16:04 INFO service-964 heartbeat ok
+2026-01-01 00:16:05 ERROR disk write failed on node-965
+2026-01-01 00:16:06 INFO service-966 heartbeat ok
+2026-01-01 00:16:07 INFO service-967 heartbeat ok
+2026-01-01 00:16:08 WARNING service-968 heartbeat ok
+2026-01-01 00:16:09 INFO service-969 heartbeat ok
+2026-01-01 00:16:10 ERROR disk write failed on node-970
+2026-01-01 00:16:11 INFO service-971 heartbeat ok
+2026-01-01 00:16:12 INFO service-972 heartbeat ok
+2026-01-01 00:16:13 WARNING service-973 heartbeat ok
+2026-01-01 00:16:14 INFO service-974 heartbeat ok
+2026-01-01 00:16:15 ERROR disk write failed on node-975
+2026-01-01 00:16:16 INFO service-976 heartbeat ok
+2026-01-01 00:16:17 INFO service-977 heartbeat ok
+2026-01-01 00:16:18 WARNING service-978 heartbeat ok
+2026-01-01 00:16:19 INFO service-979 heartbeat ok
+2026-01-01 00:16:20 ERROR disk write failed on node-980
+2026-01-01 00:16:21 INFO service-981 heartbeat ok
+2026-01-01 00:16:22 INFO service-982 heartbeat ok
+2026-01-01 00:16:23 WARNING service-983 heartbeat ok
+2026-01-01 00:16:24 INFO service-984 heartbeat ok
+2026-01-01 00:16:25 ERROR disk write failed on node-985
+2026-01-01 00:16:26 INFO service-986 heartbeat ok
+2026-01-01 00:16:27 INFO service-987 heartbeat ok
+2026-01-01 00:16:28 WARNING service-988 heartbeat ok
+2026-01-01 00:16:29 INFO service-989 heartbeat ok
+2026-01-01 00:16:30 ERROR disk write failed on node-990
+2026-01-01 00:16:31 INFO service-991 heartbeat ok
+2026-01-01 00:16:32 INFO service-992 heartbeat ok
+2026-01-01 00:16:33 WARNING service-993 heartbeat ok
+2026-01-01 00:16:34 INFO service-994 heartbeat ok
+2026-01-01 00:16:35 ERROR disk write failed on node-995
+2026-01-01 00:16:36 INFO service-996 heartbeat ok
+2026-01-01 00:16:37 INFO service-997 heartbeat ok
+2026-01-01 00:16:38 WARNING service-998 heartbeat ok
+2026-01-01 00:16:39 INFO service-999 heartbeat ok
+2026-01-01 00:16:40 ERROR disk write failed on node-1000
+2026-01-01 00:16:41 INFO service-1001 heartbeat ok
+2026-01-01 00:16:42 INFO recovered from error in module-1002
+2026-01-01 00:16:43 WARNING service-1003 heartbeat ok
+2026-01-01 00:16:44 INFO service-1004 heartbeat ok
+2026-01-01 00:16:45 ERROR disk write failed on node-1005
+2026-01-01 00:16:46 INFO service-1006 heartbeat ok
+2026-01-01 00:16:47 INFO service-1007 heartbeat ok
+2026-01-01 00:16:48 WARNING service-1008 heartbeat ok
+2026-01-01 00:16:49 INFO service-1009 heartbeat ok
+2026-01-01 00:16:50 ERROR disk write failed on node-1010
+2026-01-01 00:16:51 INFO service-1011 heartbeat ok
+2026-01-01 00:16:52 INFO service-1012 heartbeat ok
+2026-01-01 00:16:53 WARNING service-1013 heartbeat ok
+2026-01-01 00:16:54 INFO service-1014 heartbeat ok
+2026-01-01 00:16:55 ERROR disk write failed on node-1015
+2026-01-01 00:16:56 INFO service-1016 heartbeat ok
+2026-01-01 00:16:57 INFO service-1017 heartbeat ok
+2026-01-01 00:16:58 WARNING service-1018 heartbeat ok
+2026-01-01 00:16:59 INFO service-1019 heartbeat ok
+2026-01-01 00:17:00 ERROR disk write failed on node-1020
+2026-01-01 00:17:01 INFO service-1021 heartbeat ok
+2026-01-01 00:17:02 INFO service-1022 heartbeat ok
+2026-01-01 00:17:03 WARNING service-1023 heartbeat ok
+2026-01-01 00:17:04 INFO service-1024 heartbeat ok
+2026-01-01 00:17:05 ERROR disk write failed on node-1025
+2026-01-01 00:17:06 INFO service-1026 heartbeat ok
+2026-01-01 00:17:07 INFO service-1027 heartbeat ok
+2026-01-01 00:17:08 WARNING service-1028 heartbeat ok
+2026-01-01 00:17:09 INFO service-1029 heartbeat ok
+2026-01-01 00:17:10 ERROR disk write failed on node-1030
+2026-01-01 00:17:11 INFO service-1031 heartbeat ok
+2026-01-01 00:17:12 INFO service-1032 heartbeat ok
+2026-01-01 00:17:13 WARNING service-1033 heartbeat ok
+2026-01-01 00:17:14 INFO service-1034 heartbeat ok
+2026-01-01 00:17:15 ERROR disk write failed on node-1035
+2026-01-01 00:17:16 INFO service-1036 heartbeat ok
+2026-01-01 00:17:17 INFO service-1037 heartbeat ok
+2026-01-01 00:17:18 WARNING service-1038 heartbeat ok
+2026-01-01 00:17:19 INFO service-1039 heartbeat ok
+2026-01-01 00:17:20 ERROR disk write failed on node-1040
+2026-01-01 00:17:21 INFO service-1041 heartbeat ok
+2026-01-01 00:17:22 INFO service-1042 heartbeat ok
+2026-01-01 00:17:23 WARNING service-1043 heartbeat ok
+2026-01-01 00:17:24 INFO service-1044 heartbeat ok
+2026-01-01 00:17:25 ERROR disk write failed on node-1045
+2026-01-01 00:17:26 INFO service-1046 heartbeat ok
+2026-01-01 00:17:27 INFO service-1047 heartbeat ok
+2026-01-01 00:17:28 WARNING service-1048 heartbeat ok
+2026-01-01 00:17:29 INFO service-1049 heartbeat ok
+2026-01-01 00:17:30 ERROR disk write failed on node-1050
+2026-01-01 00:17:31 INFO service-1051 heartbeat ok
+2026-01-01 00:17:32 INFO recovered from error in module-1052
+2026-01-01 00:17:33 WARNING service-1053 heartbeat ok
+2026-01-01 00:17:34 INFO service-1054 heartbeat ok
+2026-01-01 00:17:35 ERROR disk write failed on node-1055
+2026-01-01 00:17:36 INFO service-1056 heartbeat ok
+2026-01-01 00:17:37 INFO service-1057 heartbeat ok
+2026-01-01 00:17:38 WARNING service-1058 heartbeat ok
+2026-01-01 00:17:39 INFO service-1059 heartbeat ok
+2026-01-01 00:17:40 ERROR disk write failed on node-1060
+2026-01-01 00:17:41 INFO service-1061 heartbeat ok
+2026-01-01 00:17:42 INFO service-1062 heartbeat ok
+2026-01-01 00:17:43 WARNING service-1063 heartbeat ok
+2026-01-01 00:17:44 INFO service-1064 heartbeat ok
+2026-01-01 00:17:45 ERROR disk write failed on node-1065
+2026-01-01 00:17:46 INFO service-1066 heartbeat ok
+2026-01-01 00:17:47 INFO service-1067 heartbeat ok
+2026-01-01 00:17:48 WARNING service-1068 heartbeat ok
+2026-01-01 00:17:49 INFO service-1069 heartbeat ok
+2026-01-01 00:17:50 ERROR disk write failed on node-1070
+2026-01-01 00:17:51 INFO service-1071 heartbeat ok
+2026-01-01 00:17:52 INFO service-1072 heartbeat ok
+2026-01-01 00:17:53 WARNING service-1073 heartbeat ok
+2026-01-01 00:17:54 INFO service-1074 heartbeat ok
+2026-01-01 00:17:55 ERROR disk write failed on node-1075
+2026-01-01 00:17:56 INFO service-1076 heartbeat ok
+2026-01-01 00:17:57 INFO service-1077 heartbeat ok
+2026-01-01 00:17:58 WARNING service-1078 heartbeat ok
+2026-01-01 00:17:59 INFO service-1079 heartbeat ok
+2026-01-01 00:18:00 ERROR disk write failed on node-1080
+2026-01-01 00:18:01 INFO service-1081 heartbeat ok
+2026-01-01 00:18:02 INFO service-1082 heartbeat ok
+2026-01-01 00:18:03 WARNING service-1083 heartbeat ok
+2026-01-01 00:18:04 INFO service-1084 heartbeat ok
+2026-01-01 00:18:05 ERROR disk write failed on node-1085
+2026-01-01 00:18:06 INFO service-1086 heartbeat ok
+2026-01-01 00:18:07 INFO service-1087 heartbeat ok
+2026-01-01 00:18:08 WARNING service-1088 heartbeat ok
+2026-01-01 00:18:09 INFO service-1089 heartbeat ok
+2026-01-01 00:18:10 ERROR disk write failed on node-1090
+2026-01-01 00:18:11 INFO service-1091 heartbeat ok
+2026-01-01 00:18:12 INFO service-1092 heartbeat ok
+2026-01-01 00:18:13 WARNING service-1093 heartbeat ok
+2026-01-01 00:18:14 INFO service-1094 heartbeat ok
+2026-01-01 00:18:15 ERROR disk write failed on node-1095
+2026-01-01 00:18:16 INFO service-1096 heartbeat ok
+2026-01-01 00:18:17 INFO service-1097 heartbeat ok
+2026-01-01 00:18:18 WARNING service-1098 heartbeat ok
+2026-01-01 00:18:19 INFO service-1099 heartbeat ok
+2026-01-01 00:18:20 ERROR disk write failed on node-1100
+2026-01-01 00:18:21 INFO service-1101 heartbeat ok
+2026-01-01 00:18:22 INFO recovered from error in module-1102
+2026-01-01 00:18:23 WARNING service-1103 heartbeat ok
+2026-01-01 00:18:24 INFO service-1104 heartbeat ok
+2026-01-01 00:18:25 ERROR disk write failed on node-1105
+2026-01-01 00:18:26 INFO service-1106 heartbeat ok
+2026-01-01 00:18:27 INFO service-1107 heartbeat ok
+2026-01-01 00:18:28 WARNING service-1108 heartbeat ok
+2026-01-01 00:18:29 INFO service-1109 heartbeat ok
+2026-01-01 00:18:30 ERROR disk write failed on node-1110
+2026-01-01 00:18:31 INFO service-1111 heartbeat ok
+2026-01-01 00:18:32 INFO service-1112 heartbeat ok
+2026-01-01 00:18:33 WARNING service-1113 heartbeat ok
+2026-01-01 00:18:34 INFO service-1114 heartbeat ok
+2026-01-01 00:18:35 ERROR disk write failed on node-1115
+2026-01-01 00:18:36 INFO service-1116 heartbeat ok
+2026-01-01 00:18:37 INFO service-1117 heartbeat ok
+2026-01-01 00:18:38 WARNING service-1118 heartbeat ok
+2026-01-01 00:18:39 INFO service-1119 heartbeat ok
+2026-01-01 00:18:40 ERROR disk write failed on node-1120
+2026-01-01 00:18:41 INFO service-1121 heartbeat ok
+2026-01-01 00:18:42 INFO service-1122 heartbeat ok
+2026-01-01 00:18:43 WARNING service-1123 heartbeat ok
+2026-01-01 00:18:44 INFO service-1124 heartbeat ok
+2026-01-01 00:18:45 ERROR disk write failed on node-1125
+2026-01-01 00:18:46 INFO service-1126 heartbeat ok
+2026-01-01 00:18:47 INFO service-1127 heartbeat ok
+2026-01-01 00:18:48 WARNING service-1128 heartbeat ok
+2026-01-01 00:18:49 INFO service-1129 heartbeat ok
+2026-01-01 00:18:50 ERROR disk write failed on node-1130
+2026-01-01 00:18:51 INFO service-1131 heartbeat ok
+2026-01-01 00:18:52 INFO service-1132 heartbeat ok
+2026-01-01 00:18:53 WARNING service-1133 heartbeat ok
+2026-01-01 00:18:54 INFO service-1134 heartbeat ok
+2026-01-01 00:18:55 ERROR disk write failed on node-1135
+2026-01-01 00:18:56 INFO service-1136 heartbeat ok
+2026-01-01 00:18:57 INFO service-1137 heartbeat ok
+2026-01-01 00:18:58 WARNING service-1138 heartbeat ok
+2026-01-01 00:18:59 INFO service-1139 heartbeat ok
+2026-01-01 00:19:00 ERROR disk write failed on node-1140
+2026-01-01 00:19:01 INFO service-1141 heartbeat ok
+2026-01-01 00:19:02 INFO service-1142 heartbeat ok
+2026-01-01 00:19:03 WARNING service-1143 heartbeat ok
+2026-01-01 00:19:04 INFO service-1144 heartbeat ok
+2026-01-01 00:19:05 ERROR disk write failed on node-1145
+2026-01-01 00:19:06 INFO service-1146 heartbeat ok
+2026-01-01 00:19:07 INFO service-1147 heartbeat ok
+2026-01-01 00:19:08 WARNING service-1148 heartbeat ok
+2026-01-01 00:19:09 INFO service-1149 heartbeat ok
+2026-01-01 00:19:10 ERROR disk write failed on node-1150
+2026-01-01 00:19:11 INFO service-1151 heartbeat ok
+2026-01-01 00:19:12 INFO recovered from error in module-1152
+2026-01-01 00:19:13 WARNING service-1153 heartbeat ok
+2026-01-01 00:19:14 INFO service-1154 heartbeat ok
+2026-01-01 00:19:15 ERROR disk write failed on node-1155
+2026-01-01 00:19:16 INFO service-1156 heartbeat ok
+2026-01-01 00:19:17 INFO service-1157 heartbeat ok
+2026-01-01 00:19:18 WARNING service-1158 heartbeat ok
+2026-01-01 00:19:19 INFO service-1159 heartbeat ok
+2026-01-01 00:19:20 ERROR disk write failed on node-1160
+2026-01-01 00:19:21 INFO service-1161 heartbeat ok
+2026-01-01 00:19:22 INFO service-1162 heartbeat ok
+2026-01-01 00:19:23 WARNING service-1163 heartbeat ok
+2026-01-01 00:19:24 INFO service-1164 heartbeat ok
+2026-01-01 00:19:25 ERROR disk write failed on node-1165
+2026-01-01 00:19:26 INFO service-1166 heartbeat ok
+2026-01-01 00:19:27 INFO service-1167 heartbeat ok
+2026-01-01 00:19:28 WARNING service-1168 heartbeat ok
+2026-01-01 00:19:29 INFO service-1169 heartbeat ok
+2026-01-01 00:19:30 ERROR disk write failed on node-1170
+2026-01-01 00:19:31 INFO service-1171 heartbeat ok
+2026-01-01 00:19:32 INFO service-1172 heartbeat ok
+2026-01-01 00:19:33 WARNING service-1173 heartbeat ok
+2026-01-01 00:19:34 INFO service-1174 heartbeat ok
+2026-01-01 00:19:35 ERROR disk write failed on node-1175
+2026-01-01 00:19:36 INFO service-1176 heartbeat ok
+2026-01-01 00:19:37 INFO service-1177 heartbeat ok
+2026-01-01 00:19:38 WARNING service-1178 heartbeat ok
+2026-01-01 00:19:39 INFO service-1179 heartbeat ok
+2026-01-01 00:19:40 ERROR disk write failed on node-1180
+2026-01-01 00:19:41 INFO service-1181 heartbeat ok
+2026-01-01 00:19:42 INFO service-1182 heartbeat ok
+2026-01-01 00:19:43 WARNING service-1183 heartbeat ok
+2026-01-01 00:19:44 INFO service-1184 heartbeat ok
+2026-01-01 00:19:45 ERROR disk write failed on node-1185
+2026-01-01 00:19:46 INFO service-1186 heartbeat ok
+2026-01-01 00:19:47 INFO service-1187 heartbeat ok
+2026-01-01 00:19:48 WARNING service-1188 heartbeat ok
+2026-01-01 00:19:49 INFO service-1189 heartbeat ok
+2026-01-01 00:19:50 ERROR disk write failed on node-1190
+2026-01-01 00:19:51 INFO service-1191 heartbeat ok
+2026-01-01 00:19:52 INFO service-1192 heartbeat ok
+2026-01-01 00:19:53 WARNING service-1193 heartbeat ok
+2026-01-01 00:19:54 INFO service-1194 heartbeat ok
+2026-01-01 00:19:55 ERROR disk write failed on node-1195
+2026-01-01 00:19:56 INFO service-1196 heartbeat ok
+2026-01-01 00:19:57 INFO service-1197 heartbeat ok
+2026-01-01 00:19:58 WARNING service-1198 heartbeat ok
+2026-01-01 00:19:59 INFO service-1199 heartbeat ok
+2026-01-01 00:20:00 ERROR disk write failed on node-1200
+2026-01-01 00:20:01 INFO service-1201 heartbeat ok
+2026-01-01 00:20:02 INFO recovered from error in module-1202
+2026-01-01 00:20:03 WARNING service-1203 heartbeat ok
+2026-01-01 00:20:04 INFO service-1204 heartbeat ok
+2026-01-01 00:20:05 ERROR disk write failed on node-1205
+2026-01-01 00:20:06 INFO service-1206 heartbeat ok
+2026-01-01 00:20:07 INFO service-1207 heartbeat ok
+2026-01-01 00:20:08 WARNING service-1208 heartbeat ok
+2026-01-01 00:20:09 INFO service-1209 heartbeat ok
+2026-01-01 00:20:10 ERROR disk write failed on node-1210
+2026-01-01 00:20:11 INFO service-1211 heartbeat ok
+2026-01-01 00:20:12 INFO service-1212 heartbeat ok
+2026-01-01 00:20:13 WARNING service-1213 heartbeat ok
+2026-01-01 00:20:14 INFO service-1214 heartbeat ok
+2026-01-01 00:20:15 ERROR disk write failed on node-1215
+2026-01-01 00:20:16 INFO service-1216 heartbeat ok
+2026-01-01 00:20:17 INFO service-1217 heartbeat ok
+2026-01-01 00:20:18 WARNING service-1218 heartbeat ok
+2026-01-01 00:20:19 INFO service-1219 heartbeat ok
+2026-01-01 00:20:20 ERROR disk write failed on node-1220
+2026-01-01 00:20:21 INFO service-1221 heartbeat ok
+2026-01-01 00:20:22 INFO service-1222 heartbeat ok
+2026-01-01 00:20:23 WARNING service-1223 heartbeat ok
+2026-01-01 00:20:24 INFO service-1224 heartbeat ok
+2026-01-01 00:20:25 ERROR disk write failed on node-1225
+2026-01-01 00:20:26 INFO service-1226 heartbeat ok
+2026-01-01 00:20:27 INFO service-1227 heartbeat ok
+2026-01-01 00:20:28 WARNING service-1228 heartbeat ok
+2026-01-01 00:20:29 INFO service-1229 heartbeat ok
+2026-01-01 00:20:30 ERROR disk write failed on node-1230
+2026-01-01 00:20:31 INFO service-1231 heartbeat ok
+2026-01-01 00:20:32 INFO service-1232 heartbeat ok
+2026-01-01 00:20:33 WARNING service-1233 heartbeat ok
+2026-01-01 00:20:34 INFO service-1234 heartbeat ok
+2026-01-01 00:20:35 ERROR disk write failed on node-1235
+2026-01-01 00:20:36 INFO service-1236 heartbeat ok
+2026-01-01 00:20:37 INFO service-1237 heartbeat ok
+2026-01-01 00:20:38 WARNING service-1238 heartbeat ok
+2026-01-01 00:20:39 INFO service-1239 heartbeat ok
+2026-01-01 00:20:40 ERROR disk write failed on node-1240
+2026-01-01 00:20:41 INFO service-1241 heartbeat ok
+2026-01-01 00:20:42 INFO service-1242 heartbeat ok
+2026-01-01 00:20:43 WARNING service-1243 heartbeat ok
+2026-01-01 00:20:44 INFO service-1244 heartbeat ok
+2026-01-01 00:20:45 ERROR disk write failed on node-1245
+2026-01-01 00:20:46 INFO service-1246 heartbeat ok
+2026-01-01 00:20:47 INFO service-1247 heartbeat ok
+2026-01-01 00:20:48 WARNING service-1248 heartbeat ok
+2026-01-01 00:20:49 INFO service-1249 heartbeat ok
+2026-01-01 00:20:50 ERROR disk write failed on node-1250
+2026-01-01 00:20:51 INFO service-1251 heartbeat ok
+2026-01-01 00:20:52 INFO recovered from error in module-1252
+2026-01-01 00:20:53 WARNING service-1253 heartbeat ok
+2026-01-01 00:20:54 INFO service-1254 heartbeat ok
+2026-01-01 00:20:55 ERROR disk write failed on node-1255
+2026-01-01 00:20:56 INFO service-1256 heartbeat ok
+2026-01-01 00:20:57 INFO service-1257 heartbeat ok
+2026-01-01 00:20:58 WARNING service-1258 heartbeat ok
+2026-01-01 00:20:59 INFO service-1259 heartbeat ok
+2026-01-01 00:21:00 ERROR disk write failed on node-1260
+2026-01-01 00:21:01 INFO service-1261 heartbeat ok
+2026-01-01 00:21:02 INFO service-1262 heartbeat ok
+2026-01-01 00:21:03 WARNING service-1263 heartbeat ok
+2026-01-01 00:21:04 INFO service-1264 heartbeat ok
+2026-01-01 00:21:05 ERROR disk write failed on node-1265
+2026-01-01 00:21:06 INFO service-1266 heartbeat ok
+2026-01-01 00:21:07 INFO service-1267 heartbeat ok
+2026-01-01 00:21:08 WARNING service-1268 heartbeat ok
+2026-01-01 00:21:09 INFO service-1269 heartbeat ok
+2026-01-01 00:21:10 ERROR disk write failed on node-1270
+2026-01-01 00:21:11 INFO service-1271 heartbeat ok
+2026-01-01 00:21:12 INFO service-1272 heartbeat ok
+2026-01-01 00:21:13 WARNING service-1273 heartbeat ok
+2026-01-01 00:21:14 INFO service-1274 heartbeat ok
+2026-01-01 00:21:15 ERROR disk write failed on node-1275
+2026-01-01 00:21:16 INFO service-1276 heartbeat ok
+2026-01-01 00:21:17 INFO service-1277 heartbeat ok
+2026-01-01 00:21:18 WARNING service-1278 heartbeat ok
+2026-01-01 00:21:19 INFO service-1279 heartbeat ok
+2026-01-01 00:21:20 ERROR disk write failed on node-1280
+2026-01-01 00:21:21 INFO service-1281 heartbeat ok
+2026-01-01 00:21:22 INFO service-1282 heartbeat ok
+2026-01-01 00:21:23 WARNING service-1283 heartbeat ok
+2026-01-01 00:21:24 INFO service-1284 heartbeat ok
+2026-01-01 00:21:25 ERROR disk write failed on node-1285
+2026-01-01 00:21:26 INFO service-1286 heartbeat ok
+2026-01-01 00:21:27 INFO service-1287 heartbeat ok
+2026-01-01 00:21:28 WARNING service-1288 heartbeat ok
+2026-01-01 00:21:29 INFO service-1289 heartbeat ok
+2026-01-01 00:21:30 ERROR disk write failed on node-1290
+2026-01-01 00:21:31 INFO service-1291 heartbeat ok
+2026-01-01 00:21:32 INFO service-1292 heartbeat ok
+2026-01-01 00:21:33 WARNING service-1293 heartbeat ok
+2026-01-01 00:21:34 INFO service-1294 heartbeat ok
+2026-01-01 00:21:35 ERROR disk write failed on node-1295
+2026-01-01 00:21:36 INFO service-1296 heartbeat ok
+2026-01-01 00:21:37 INFO service-1297 heartbeat ok
+2026-01-01 00:21:38 WARNING service-1298 heartbeat ok
+2026-01-01 00:21:39 INFO service-1299 heartbeat ok
+2026-01-01 00:21:40 ERROR disk write failed on node-1300
+2026-01-01 00:21:41 INFO service-1301 heartbeat ok
+2026-01-01 00:21:42 INFO recovered from error in module-1302
+2026-01-01 00:21:43 WARNING service-1303 heartbeat ok
+2026-01-01 00:21:44 INFO service-1304 heartbeat ok
+2026-01-01 00:21:45 ERROR disk write failed on node-1305
+2026-01-01 00:21:46 INFO service-1306 heartbeat ok
+2026-01-01 00:21:47 INFO service-1307 heartbeat ok
+2026-01-01 00:21:48 WARNING service-1308 heartbeat ok
+2026-01-01 00:21:49 INFO service-1309 heartbeat ok
+2026-01-01 00:21:50 ERROR disk write failed on node-1310
+2026-01-01 00:21:51 INFO service-1311 heartbeat ok
+2026-01-01 00:21:52 INFO service-1312 heartbeat ok
+2026-01-01 00:21:53 WARNING service-1313 heartbeat ok
+2026-01-01 00:21:54 INFO service-1314 heartbeat ok
+2026-01-01 00:21:55 ERROR disk write failed on node-1315
+2026-01-01 00:21:56 INFO service-1316 heartbeat ok
+2026-01-01 00:21:57 INFO service-1317 heartbeat ok
+2026-01-01 00:21:58 WARNING service-1318 heartbeat ok
+2026-01-01 00:21:59 INFO service-1319 heartbeat ok
+2026-01-01 00:22:00 ERROR disk write failed on node-1320
+2026-01-01 00:22:01 INFO service-1321 heartbeat ok
+2026-01-01 00:22:02 INFO service-1322 heartbeat ok
+2026-01-01 00:22:03 WARNING service-1323 heartbeat ok
+2026-01-01 00:22:04 INFO service-1324 heartbeat ok
+2026-01-01 00:22:05 ERROR disk write failed on node-1325
+2026-01-01 00:22:06 INFO service-1326 heartbeat ok
+2026-01-01 00:22:07 INFO service-1327 heartbeat ok
+2026-01-01 00:22:08 WARNING service-1328 heartbeat ok
+2026-01-01 00:22:09 INFO service-1329 heartbeat ok
+2026-01-01 00:22:10 ERROR disk write failed on node-1330
+2026-01-01 00:22:11 INFO service-1331 heartbeat ok
+2026-01-01 00:22:12 INFO service-1332 heartbeat ok
+2026-01-01 00:22:13 WARNING service-1333 heartbeat ok
+2026-01-01 00:22:14 INFO service-1334 heartbeat ok
+2026-01-01 00:22:15 ERROR disk write failed on node-1335
+2026-01-01 00:22:16 INFO service-1336 heartbeat ok
+2026-01-01 00:22:17 INFO service-1337 heartbeat ok
+2026-01-01 00:22:18 WARNING service-1338 heartbeat ok
+2026-01-01 00:22:19 INFO service-1339 heartbeat ok
+2026-01-01 00:22:20 ERROR disk write failed on node-1340
+2026-01-01 00:22:21 INFO service-1341 heartbeat ok
+2026-01-01 00:22:22 INFO service-1342 heartbeat ok
+2026-01-01 00:22:23 WARNING service-1343 heartbeat ok
+2026-01-01 00:22:24 INFO service-1344 heartbeat ok
+2026-01-01 00:22:25 ERROR disk write failed on node-1345
+2026-01-01 00:22:26 INFO service-1346 heartbeat ok
+2026-01-01 00:22:27 INFO service-1347 heartbeat ok
+2026-01-01 00:22:28 WARNING service-1348 heartbeat ok
+2026-01-01 00:22:29 INFO service-1349 heartbeat ok
+2026-01-01 00:22:30 ERROR disk write failed on node-1350
+2026-01-01 00:22:31 INFO service-1351 heartbeat ok
+2026-01-01 00:22:32 INFO recovered from error in module-1352
+2026-01-01 00:22:33 WARNING service-1353 heartbeat ok
+2026-01-01 00:22:34 INFO service-1354 heartbeat ok
+2026-01-01 00:22:35 ERROR disk write failed on node-1355
+2026-01-01 00:22:36 INFO service-1356 heartbeat ok
+2026-01-01 00:22:37 INFO service-1357 heartbeat ok
+2026-01-01 00:22:38 WARNING service-1358 heartbeat ok
+2026-01-01 00:22:39 INFO service-1359 heartbeat ok
+2026-01-01 00:22:40 ERROR disk write failed on node-1360
+2026-01-01 00:22:41 INFO service-1361 heartbeat ok
+2026-01-01 00:22:42 INFO service-1362 heartbeat ok
+2026-01-01 00:22:43 WARNING service-1363 heartbeat ok
+2026-01-01 00:22:44 INFO service-1364 heartbeat ok
+2026-01-01 00:22:45 ERROR disk write failed on node-1365
+2026-01-01 00:22:46 INFO service-1366 heartbeat ok
+2026-01-01 00:22:47 INFO service-1367 heartbeat ok
+2026-01-01 00:22:48 WARNING service-1368 heartbeat ok
+2026-01-01 00:22:49 INFO service-1369 heartbeat ok
+2026-01-01 00:22:50 ERROR disk write failed on node-1370
+2026-01-01 00:22:51 INFO service-1371 heartbeat ok
+2026-01-01 00:22:52 INFO service-1372 heartbeat ok
+2026-01-01 00:22:53 WARNING service-1373 heartbeat ok
+2026-01-01 00:22:54 INFO service-1374 heartbeat ok
+2026-01-01 00:22:55 ERROR disk write failed on node-1375
+2026-01-01 00:22:56 INFO service-1376 heartbeat ok
+2026-01-01 00:22:57 INFO service-1377 heartbeat ok
+2026-01-01 00:22:58 WARNING service-1378 heartbeat ok
+2026-01-01 00:22:59 INFO service-1379 heartbeat ok
+2026-01-01 00:23:00 ERROR disk write failed on node-1380
+2026-01-01 00:23:01 INFO service-1381 heartbeat ok
+2026-01-01 00:23:02 INFO service-1382 heartbeat ok
+2026-01-01 00:23:03 WARNING service-1383 heartbeat ok
+2026-01-01 00:23:04 INFO service-1384 heartbeat ok
+2026-01-01 00:23:05 ERROR disk write failed on node-1385
+2026-01-01 00:23:06 INFO service-1386 heartbeat ok
+2026-01-01 00:23:07 INFO service-1387 heartbeat ok
+2026-01-01 00:23:08 WARNING service-1388 heartbeat ok
+2026-01-01 00:23:09 INFO service-1389 heartbeat ok
+2026-01-01 00:23:10 ERROR disk write failed on node-1390
+2026-01-01 00:23:11 INFO service-1391 heartbeat ok
+2026-01-01 00:23:12 INFO service-1392 heartbeat ok
+2026-01-01 00:23:13 WARNING service-1393 heartbeat ok
+2026-01-01 00:23:14 INFO service-1394 heartbeat ok
+2026-01-01 00:23:15 ERROR disk write failed on node-1395
+2026-01-01 00:23:16 INFO service-1396 heartbeat ok
+2026-01-01 00:23:17 INFO service-1397 heartbeat ok
+2026-01-01 00:23:18 WARNING service-1398 heartbeat ok
+2026-01-01 00:23:19 INFO service-1399 heartbeat ok
+2026-01-01 00:23:20 ERROR disk write failed on node-1400
+2026-01-01 00:23:21 INFO service-1401 heartbeat ok
+2026-01-01 00:23:22 INFO recovered from error in module-1402
+2026-01-01 00:23:23 WARNING service-1403 heartbeat ok
+2026-01-01 00:23:24 INFO service-1404 heartbeat ok
+2026-01-01 00:23:25 ERROR disk write failed on node-1405
+2026-01-01 00:23:26 INFO service-1406 heartbeat ok
+2026-01-01 00:23:27 INFO service-1407 heartbeat ok
+2026-01-01 00:23:28 WARNING service-1408 heartbeat ok
+2026-01-01 00:23:29 INFO service-1409 heartbeat ok
+2026-01-01 00:23:30 ERROR disk write failed on node-1410
+2026-01-01 00:23:31 INFO service-1411 heartbeat ok
+2026-01-01 00:23:32 INFO service-1412 heartbeat ok
+2026-01-01 00:23:33 WARNING service-1413 heartbeat ok
+2026-01-01 00:23:34 INFO service-1414 heartbeat ok
+2026-01-01 00:23:35 ERROR disk write failed on node-1415
+2026-01-01 00:23:36 INFO service-1416 heartbeat ok
+2026-01-01 00:23:37 INFO service-1417 heartbeat ok
+2026-01-01 00:23:38 WARNING service-1418 heartbeat ok
+2026-01-01 00:23:39 INFO service-1419 heartbeat ok
+2026-01-01 00:23:40 ERROR disk write failed on node-1420
+2026-01-01 00:23:41 INFO service-1421 heartbeat ok
+2026-01-01 00:23:42 INFO service-1422 heartbeat ok
+2026-01-01 00:23:43 WARNING service-1423 heartbeat ok
+2026-01-01 00:23:44 INFO service-1424 heartbeat ok
+2026-01-01 00:23:45 ERROR disk write failed on node-1425
+2026-01-01 00:23:46 INFO service-1426 heartbeat ok
+2026-01-01 00:23:47 INFO service-1427 heartbeat ok
+2026-01-01 00:23:48 WARNING service-1428 heartbeat ok
+2026-01-01 00:23:49 INFO service-1429 heartbeat ok
+2026-01-01 00:23:50 ERROR disk write failed on node-1430
+2026-01-01 00:23:51 INFO service-1431 heartbeat ok
+2026-01-01 00:23:52 INFO service-1432 heartbeat ok
+2026-01-01 00:23:53 WARNING service-1433 heartbeat ok
+2026-01-01 00:23:54 INFO service-1434 heartbeat ok
+2026-01-01 00:23:55 ERROR disk write failed on node-1435
+2026-01-01 00:23:56 INFO service-1436 heartbeat ok
+2026-01-01 00:23:57 INFO service-1437 heartbeat ok
+2026-01-01 00:23:58 WARNING service-1438 heartbeat ok
+2026-01-01 00:23:59 INFO service-1439 heartbeat ok
+2026-01-01 00:24:00 ERROR disk write failed on node-1440
+2026-01-01 00:24:01 INFO service-1441 heartbeat ok
+2026-01-01 00:24:02 INFO service-1442 heartbeat ok
+2026-01-01 00:24:03 WARNING service-1443 heartbeat ok
+2026-01-01 00:24:04 INFO service-1444 heartbeat ok
+2026-01-01 00:24:05 ERROR disk write failed on node-1445
+2026-01-01 00:24:06 INFO service-1446 heartbeat ok
+2026-01-01 00:24:07 INFO service-1447 heartbeat ok
+2026-01-01 00:24:08 WARNING service-1448 heartbeat ok
+2026-01-01 00:24:09 INFO service-1449 heartbeat ok
+2026-01-01 00:24:10 ERROR disk write failed on node-1450
+2026-01-01 00:24:11 INFO service-1451 heartbeat ok
+2026-01-01 00:24:12 INFO recovered from error in module-1452
+2026-01-01 00:24:13 WARNING service-1453 heartbeat ok
+2026-01-01 00:24:14 INFO service-1454 heartbeat ok
+2026-01-01 00:24:15 ERROR disk write failed on node-1455
+2026-01-01 00:24:16 INFO service-1456 heartbeat ok
+2026-01-01 00:24:17 INFO service-1457 heartbeat ok
+2026-01-01 00:24:18 WARNING service-1458 heartbeat ok
+2026-01-01 00:24:19 INFO service-1459 heartbeat ok
+2026-01-01 00:24:20 ERROR disk write failed on node-1460
+2026-01-01 00:24:21 INFO service-1461 heartbeat ok
+2026-01-01 00:24:22 INFO service-1462 heartbeat ok
+2026-01-01 00:24:23 WARNING service-1463 heartbeat ok
+2026-01-01 00:24:24 INFO service-1464 heartbeat ok
+2026-01-01 00:24:25 ERROR disk write failed on node-1465
+2026-01-01 00:24:26 INFO service-1466 heartbeat ok
+2026-01-01 00:24:27 INFO service-1467 heartbeat ok
+2026-01-01 00:24:28 WARNING service-1468 heartbeat ok
+2026-01-01 00:24:29 INFO service-1469 heartbeat ok
+2026-01-01 00:24:30 ERROR disk write failed on node-1470
+2026-01-01 00:24:31 INFO service-1471 heartbeat ok
+2026-01-01 00:24:32 INFO service-1472 heartbeat ok
+2026-01-01 00:24:33 WARNING service-1473 heartbeat ok
+2026-01-01 00:24:34 INFO service-1474 heartbeat ok
+2026-01-01 00:24:35 ERROR disk write failed on node-1475
+2026-01-01 00:24:36 INFO service-1476 heartbeat ok
+2026-01-01 00:24:37 INFO service-1477 heartbeat ok
+2026-01-01 00:24:38 WARNING service-1478 heartbeat ok
+2026-01-01 00:24:39 INFO service-1479 heartbeat ok
+2026-01-01 00:24:40 ERROR disk write failed on node-1480
+2026-01-01 00:24:41 INFO service-1481 heartbeat ok
+2026-01-01 00:24:42 INFO service-1482 heartbeat ok
+2026-01-01 00:24:43 WARNING service-1483 heartbeat ok
+2026-01-01 00:24:44 INFO service-1484 heartbeat ok
+2026-01-01 00:24:45 ERROR disk write failed on node-1485
+2026-01-01 00:24:46 INFO service-1486 heartbeat ok
+2026-01-01 00:24:47 INFO service-1487 heartbeat ok
+2026-01-01 00:24:48 WARNING service-1488 heartbeat ok
+2026-01-01 00:24:49 INFO service-1489 heartbeat ok
+2026-01-01 00:24:50 ERROR disk write failed on node-1490
+2026-01-01 00:24:51 INFO service-1491 heartbeat ok
+2026-01-01 00:24:52 INFO service-1492 heartbeat ok
+2026-01-01 00:24:53 WARNING service-1493 heartbeat ok
+2026-01-01 00:24:54 INFO service-1494 heartbeat ok
+2026-01-01 00:24:55 ERROR disk write failed on node-1495
+2026-01-01 00:24:56 INFO service-1496 heartbeat ok
+2026-01-01 00:24:57 INFO service-1497 heartbeat ok
+2026-01-01 00:24:58 WARNING service-1498 heartbeat ok
+2026-01-01 00:24:59 INFO service-1499 heartbeat ok
+2026-01-01 00:25:00 ERROR disk write failed on node-1500
